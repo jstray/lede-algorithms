@@ -6,12 +6,12 @@ This is a course on algorithmic data analysis in journalism. We will cover basic
 
 There are basically two different ways algorithms are combined journalism: we can use algorithms to analyze data to produce stories, and as we can do stories about algorithms that affect people's lives. We will do both.
 
-Instructor: Jonathan Stray, jms2361@columbia.edu
-Dates: Mondays and Wednesdays, 7/18-8/29
-Class: 10am-1pm
-Location: World Room
-Lab: 2pm-5pm
-Slack channel: #algorithms
+- Instructor: Jonathan Stray, jms2361@columbia.edu
+- Dates: Mondays and Wednesdays, 7/18-8/29
+- Class: 10am-1pm
+- Location: World Room
+- Lab: 2pm-5pm
+- Slack channel: #algorithms
 
 ## Schedule 
 This is a rough outline, and subject to change, but your homework assignments will always be up to date!
