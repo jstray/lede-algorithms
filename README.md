@@ -25,10 +25,8 @@ Homework is due before the following class.
 Algorithms for doing journalism, journalism about algorithms. The purpose of mathematical formalism. 
 Homework:
 
-- Use a Jypyter notebook to prove that an average of averages is not the same as the overall average. Similarly for median. 
-- Work out when the overall average and an average of averages **are** equal, and prove formally that this must be so.
-- Show that this really works, by computing the values in Jupyter.
-- Repeat this exercise for the median.
+- [Assignment notebook](https://github.com/jstray/lede-algorithms/blob/master/week-1/week-1-homework.ipynb). Show that an average of averages is not the same as the overall average. Work out when the overall average and an average of averages **are** equal. Show that this really works, by computing the values in Jupyter.
+
 
 ### Week 2 - Text Processing
 In this class we will develop the ubiquitous vector space document model, with TF-IDF weighting. You will learn to algorithmically summarize documents by extracting keywords, how to compare documents for similarity, and how a search engine and Google News work.
@@ -39,7 +37,7 @@ References:
 - The [Overview document mining platform](overviewdocs.com), a powerful tool you can use to explore document sets, or OCR and convert them. See also this [visualization of the TF-IDF vectors](https://blog.overviewdocs.com/2012/03/16/video-document-mining-with-the-overview-prototype/) of a document set.
 
 Homework:
-- Analyze the State of the Union speeches in the 20th century to see how topics changed by decade (see notebook assignment)
+- [Assignment notebook](https://github.com/jstray/lede-algorithms/blob/master/week-2-1/week-2-homework.ipynb) Analyze the State of the Union speeches in the 20th century to see how topics changed by decade (see notebook assignment)
 
 ### Week 3 - Regression
 
