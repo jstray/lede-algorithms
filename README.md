@@ -33,6 +33,10 @@ Homework:
 ### Week 2 - Text Processing
 In this class we will develop the ubiquitous vector space document model, with TF-IDF weighting. You will learn to algorithmically summarize documents by extracting keywords, how to compare documents for similarity, and how a search engine and Google News work.
 
+Readings:
+- An article which describes TF-IDF in more detail [TF-IDF is about what matters](https://planspace.org/20150524-tfidf_is_about_what_matters/0
+- A real life example of TF-IDF and cosine similarity used in journalism: [https://www.propublica.org/nerds/how-propublicas-message-machine-reverse-engineers-political-microtargeting](https://www.propublica.org/nerds/how-propublicas-message-machine-reverse-engineers-political-microtargeting)
+
 Homework:
 - Analyze the State of the Union speeches in the 20th century to see how topics changed by decade (see notebook assignment)
 
