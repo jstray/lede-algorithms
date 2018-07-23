@@ -22,7 +22,7 @@ Homework is due before the following class.
 
 
 ### Week 1 - Introduction to Algorithms
-Algorithms for doing journalism, journalism about algorithms. The purpose of mathematical formalism. `csvkit` for working with large files.
+Algorithms for doing journalism, journalism about algorithms. The purpose of mathematical formalism. 
 Homework:
 
 - Use a Jypyter notebook to prove that an average of averages is not the same as the overall average. Similarly for median. 
@@ -31,6 +31,10 @@ Homework:
 - Repeat this exercise for the median.
 
 ### Week 2 - Text Processing
+In this class we will develop the ubiquitous vector space document model, with TF-IDF weighting. You will learn to algorithmically summarize documents by extracting keywords, how to compare documents for similarity, and how a search engine and Google News work.
+
+Homework:
+- Analyze the State of the Union speeches in the 20th century to see how topics changed by decade (see notebook assignment)
 
 ### Week 3 - Regression
 
