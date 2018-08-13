@@ -1,0 +1,51 @@
+,name,fruit_or_veg,exotic,in_season,imported,score,eaten
+0,apple,fruit,False,True,True,0,False
+1,apricot,fruit,True,True,False,3,True
+2,banana,fruit,False,True,False,1,True
+3,blueberry,fruit,False,True,False,1,True
+4,blackberry,fruit,True,False,False,2,True
+5,cantaloupe,fruit,False,True,False,1,False
+6,coconut,fruit,True,True,False,3,True
+7,coffee bean,fruit,False,False,False,0,False
+8,durian,fruit,True,True,False,3,True
+9,grape,fruit,False,False,False,0,False
+10,grapefruit,fruit,False,False,False,0,True
+11,lime,fruit,False,True,False,1,True
+12,mango,fruit,True,True,False,3,True
+13,orange,fruit,False,False,False,0,True
+14,pineapple,fruit,True,True,False,3,True
+15,peach,fruit,False,True,False,1,False
+16,pear,fruit,False,True,False,1,False
+17,plum,fruit,False,False,False,0,False
+18,quince,fruit,True,True,False,3,True
+19,raspberry,fruit,False,True,True,0,False
+20,rhubarb,fruit,True,True,False,3,True
+21,strawberry,fruit,False,True,False,1,True
+22,sugar cane,fruit,True,True,False,3,True
+23,tamirand,fruit,True,True,False,3,True
+24,watermelon,fruit,False,False,False,0,False
+25,avocado,veg,True,True,True,2,True
+26,artichoke,veg,True,True,True,2,False
+27,asparagus,veg,True,True,True,2,True
+28,brussels sprout,veg,False,False,True,-1,False
+29,green beans,veg,False,True,True,0,True
+30,beet,veg,False,False,False,0,False
+31,carrot,veg,False,False,True,-1,False
+32,corn,veg,False,False,True,-1,False
+33,cabbage,veg,False,True,True,0,False
+34,celery,veg,False,False,True,-1,False
+35,cucumber,veg,False,False,True,-1,False
+36,eggplant,veg,True,False,True,1,True
+37,garlic,veg,False,False,True,-1,False
+38,kale,veg,False,True,True,0,False
+39,lettuce,veg,False,True,True,0,False
+40,mushroom,veg,False,True,False,1,True
+41,onion,veg,False,False,True,-1,False
+42,potato,veg,False,False,True,-1,False
+43,green peas,veg,False,False,True,-1,True
+44,pumpkin,veg,True,False,False,2,True
+45,radish,veg,False,False,True,-1,True
+46,spinach,veg,False,False,True,-1,False
+47,sweet potato,veg,False,False,True,-1,False
+48,tomato,veg,False,False,False,0,False
+49,zucchini,veg,False,False,False,0,False
