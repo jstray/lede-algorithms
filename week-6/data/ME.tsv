@@ -1,0 +1,47 @@
+Trump	Clinton	Johnson	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+38.0	46.0	10.0	5.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	779		Internet	Nonpartisan	None
+41.0	54.0		5.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	308		Internet	Nonpartisan	None
+39.0	47.0	7.0	5.0	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	674		Internet	Nonpartisan	None
+35.0	42.0			23.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	304		Internet	Nonpartisan	None
+39.0	47.0	6.0	5.0	3.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	635		Internet	Nonpartisan	None
+39.0	48.0	6.0	4.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	590		Internet	Nonpartisan	None
+37.0	45.0			18.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	294		Internet	Nonpartisan	None
+38.0	47.0	7.0	5.0	4.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	529		Internet	Nonpartisan	None
+37.0	49.0	6.0	4.0	4.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	428		Internet	Nonpartisan	None
+37.0	49.0	6.0	4.0	4.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	432		Internet	Nonpartisan	None
+38.0	50.0	7.0	3.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	386		Internet	Nonpartisan	None
+43.0	54.0		3.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	312		Internet	Nonpartisan	None
+36.0	51.0	7.0	3.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	412		Internet	Nonpartisan	None
+39.0	46.0			15.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	274		Internet	Nonpartisan	None
+40.0	47.0			13.0	mprc-26601	MPRC	2016-10-24	2016-10-26	If the election for President were held today and the candidates were Democrat Hillary Clinton and Republican Donald Trump, for whom would you vote?	Likely Voters	812	3.4	IVR/Online	Nonpartisan	None
+37.0	42.0	9.0	4.0	9.0	mprc-26601	MPRC	2016-10-24	2016-10-26	If the election for President were held today and the candidates were Democrat Hillary Clinton, Republican Donald Trump, Green Jill Stein and Libertarian Gary Johnson, for whom would you vote?	Likely Voters	812	3.4	IVR/Online	Nonpartisan	None
+35.0	52.0	7.0	4.0	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	410		Internet	Nonpartisan	None
+37.0	48.0	5.0	6.0	3.0	unh-portland-press-herald-maine-sunday-telegram-26553	UNH/Portland Press Herald/Maine Sunday Telegram	2016-10-20	2016-10-25		Likely Voters	646		Live Phone	Nonpartisan	None
+35.0	51.0	6.0	4.0	3.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	370		Internet	Nonpartisan	None
+36.0	50.0	6.0	5.0	3.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	318		Internet	Nonpartisan	None
+42.0	55.0		3.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	309		Internet	Nonpartisan	None
+42.0	55.0		3.0		upi-cvoter-26306	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	313		Internet	Nonpartisan	None
+39.0	49.0			12.0	mprc-26350	MPRC	2016-10-14	2016-10-15	If the election for President were held today and the candidates were Democrat Hillary Clinton and Republican Donald Trump, for whom would you vote?	Likely Voters	890	3.3	IVR/Online	Nonpartisan	None
+36.0	42.0	9.0	4.0	9.0	mprc-26350	MPRC	2016-10-14	2016-10-15	If the election for President were held today and the candidates were Democrat Hillary Clinton, Republican Donald Trump, Green Jill Stein and Libertarian Gary Johnson, for whom would you vote?	Likely Voters	890	3.3	IVR/Online	Nonpartisan	None
+35.0	48.0			17.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	281		Internet	Nonpartisan	None
+40.0	49.0			11.0	mprc-26145	MPRC	2016-10-07	2016-10-09	If the election for President were held today and the candidates were Democrat Hillary Clinton and Republican Donald Trump, for whom would you vote?	Likely Voters	892	3.3	IVR/Online	Nonpartisan	None
+36.0	44.0	9.0	3.0	8.0	mprc-26145	MPRC	2016-10-07	2016-10-09	If the election for President were held today and the candidates were Democrat Hillary Clinton, Republican Donald Trump, Green Jill Stein and Libertarian Gary Johnson, for whom would you vote?	Likely Voters	892	3.3	IVR/Online	Nonpartisan	None
+41.0	55.0		4.0		upi-cvoter-26040	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	305		Internet	Nonpartisan	None
+33.0	46.0			21.0	ipsos-reuters-26112	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	303		Internet	Nonpartisan	None
+43.0	54.0		3.0		upi-cvoter-25916	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	462		Internet	Nonpartisan	None
+34.0	45.0			21.0	ipsos-reuters-25865	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	326		Internet	Nonpartisan	None
+43.0	54.0		4.0		upi-cvoter-25747	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	460		Internet	Nonpartisan	None
+38.0	40.0			22.0	ipsos-reuters-25704	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	306		Internet	Nonpartisan	None
+37.0	42.0		15.0	5.0	unh-portland-press-herald-maine-sunday-telegram-25648	UNH/Portland Press Herald/Maine Sunday Telegram	2016-09-15	2016-09-21		Likely Voters	513	4.3	Live Phone	Nonpartisan	None
+36.0	40.0	12.0	5.0	7.0	unh-portland-press-herald-maine-sunday-telegram-25648	UNH/Portland Press Herald/Maine Sunday Telegram	2016-09-15	2016-09-21		Likely Voters	513	4.3	Live Phone	Nonpartisan	None
+40.0	45.0			15.0	mprc-25578	MPRC	2016-09-15	2016-09-17	If the election for President were held today and the candidates were Democrat Hillary Clinton and Republican Donald Trump, for whom would you vote?	Likely Voters	835	3.4	IVR/Online	Nonpartisan	None
+37.0	37.0	11.0	5.0	11.0	mprc-25578	MPRC	2016-09-15	2016-09-17	If the election for President were held today and the candidates were Democrat Hillary Clinton, Republican Donald Trump, Green Jill Stein and Libertarian Gary Johnson, for whom would you vote?	Likely Voters	835	3.4	IVR/Online	Nonpartisan	None
+40.0	41.0			19.0	ipsos-reuters-25552	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	275		Internet	Nonpartisan	None
+39.0	42.0	9.0	5.0	5.0	surveyusa-boston-globe-colby-college-25483	SurveyUSA/Boston Globe/Colby College	2016-09-04	2016-09-10		Likely Voters	779	3.6	IVR/Online	Nonpartisan	None
+39.0	47.0			14.0	washpost-surveymonkey-25370	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	715		Internet	Nonpartisan	None
+34.0	37.0	15.0	8.0	7.0	washpost-surveymonkey-25370	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	715		Internet	Nonpartisan	None
+32.0	42.0	10.0	4.0	13.0	mprc-25482	MPRC	2016-08-17	2016-08-20	If the election for President were held today and the candidates were Democrat Hillary Clinton, Republican Donald Trump, Green Jill Stein and Libertarian Gary Johnson, for whom would you vote?	Likely Voters	841	3.4	IVR/Online	Nonpartisan	None
+37.0	48.0			15.0	mprc-25482	MPRC	2016-08-17	2016-08-20	If the election for President were held today and the candidates were Democrat Hillary Clinton and Republican Donald Trump, for whom would you vote?	Likely Voters	841	3.4	IVR/Online	Nonpartisan	None
+36.0	46.0		17.0		gravis-marketing-25132	Gravis Marketing	2016-08-04	2016-08-08	If you had to vote today in a matchup between Hillary Clinton and Donald Trump, who would you vote for?	Registered Voters	2046	2.2	IVR/Online	Nonpartisan	None
+33.0	43.0	10.0	14.0		gravis-marketing-25132	Gravis Marketing	2016-08-04	2016-08-08	If you had to vote today in a matchup between Hillary Clinton, Donald Trump, Gary Johnson and Jill Stein, who would you vote for?	Registered Voters	2046	2.2	IVR/Online	Nonpartisan	None
+35.0	42.0		19.0	4.0	unh-portland-press-herald-maine-sunday-telegram-24771	UNH/Portland Press Herald/Maine Sunday Telegram	2016-06-15	2016-06-21		Likely Voters	469	4.5	Live Phone	Nonpartisan	None

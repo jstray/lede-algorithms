@@ -1,0 +1,32 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+50.0	42.0	6.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	719		Internet	Nonpartisan	None
+54.0	42.0	4.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	330		Internet	Nonpartisan	None
+50.0	41.0	6.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	676		Internet	Nonpartisan	None
+53.0	36.0		11.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	388		Internet	Nonpartisan	None
+50.0	40.0	7.0	3.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	704		Internet	Nonpartisan	None
+49.0	40.0	8.0	3.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	673		Internet	Nonpartisan	None
+54.0	34.0		12.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	377		Internet	Nonpartisan	None
+48.0	40.0	9.0	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	676		Internet	Nonpartisan	None
+47.0	41.0	9.0	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	623		Internet	Nonpartisan	None
+48.0	41.0	9.0	3.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	648		Internet	Nonpartisan	None
+47.0	42.0	8.0	3.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	635		Internet	Nonpartisan	None
+55.0	42.0	4.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	313		Internet	Nonpartisan	None
+49.0	42.0	6.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	819		Internet	Nonpartisan	None
+52.0	33.0		15.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	390		Internet	Nonpartisan	None
+50.0	42.0	5.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	800		Internet	Nonpartisan	None
+50.0	42.0	6.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	704		Internet	Nonpartisan	None
+51.0	43.0	3.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	599		Internet	Nonpartisan	None
+54.0	42.0	4.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	320		Internet	Nonpartisan	None
+52.0	37.0		11.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	367		Internet	Nonpartisan	None
+54.0	42.0	4.0		upi-cvoter-26311	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	322		Internet	Nonpartisan	None
+49.0	41.0		10.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	404		Internet	Nonpartisan	None
+54.0	42.0	5.0		upi-cvoter-26048	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	324		Internet	Nonpartisan	None
+51.0	40.0		9.0	ipsos-reuters-26117	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	405		Internet	Nonpartisan	None
+57.0	40.0	4.0		upi-cvoter-25921	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	528		Internet	Nonpartisan	None
+49.0	38.0		13.0	ipsos-reuters-25870	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	385		Internet	Nonpartisan	None
+55.0	41.0	5.0		upi-cvoter-25752	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	512		Internet	Nonpartisan	None
+50.0	38.0		12.0	ipsos-reuters-25711	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	365		Internet	Nonpartisan	None
+51.0	37.0		12.0	ipsos-reuters-25557	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	348		Internet	Nonpartisan	None
+48.0	46.0		6.0	washpost-surveymonkey-25374	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	823		Internet	Nonpartisan	None
+46.0	43.0	6.0	5.0	washpost-surveymonkey-25374	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	823		Internet	Nonpartisan	None
+46.0	43.0		11.0	mason-dixon-24213	Mason-Dixon	2016-03-28	2016-03-30		Registered Voters	625	4.0	Live Phone	Nonpartisan	None

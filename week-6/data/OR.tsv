@@ -1,0 +1,43 @@
+Trump	Clinton	Johnson	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+35.0	50.0	7.0	5.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1595		Internet	Nonpartisan	None
+43.0	51.0		6.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	319		Internet	Nonpartisan	None
+35.0	51.0	7.0	5.0	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1483		Internet	Nonpartisan	None
+37.0	47.0			16.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	636		Internet	Nonpartisan	None
+35.0	51.0	7.0	4.0	3.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1415		Internet	Nonpartisan	None
+36.0	51.0	7.0	4.0	3.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1150		Internet	Nonpartisan	None
+38.0	47.0			15.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	626		Internet	Nonpartisan	None
+36.0	51.0	7.0	3.0	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	934		Internet	Nonpartisan	None
+36.0	51.0	7.0	3.0	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	809		Internet	Nonpartisan	None
+36.0	51.0	7.0	4.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	743		Internet	Nonpartisan	None
+36.0	51.0	7.0	4.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	614		Internet	Nonpartisan	None
+34.0	41.0	4.0	10.0	11.0	dhm-research-fox-12-26634	DHM Research/Fox 12	2016-10-25	2016-10-29		Likely Voters	504	4.4	Live Phone	Nonpartisan	None
+43.0	50.0		6.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	313		Internet	Nonpartisan	None
+35.0	50.0	8.0	4.0	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	658		Internet	Nonpartisan	None
+38.0	46.0			16.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	621		Internet	Nonpartisan	None
+33.0	52.0	9.0	4.0	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	660		Internet	Nonpartisan	None
+32.0	51.0	9.0	5.0	3.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	576		Internet	Nonpartisan	None
+32.0	50.0	10.0	5.0	3.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	470		Internet	Nonpartisan	None
+43.0	51.0		6.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	314		Internet	Nonpartisan	None
+37.0	46.0			17.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	824		Internet	Nonpartisan	None
+43.0	51.0		7.0		upi-cvoter-26325	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	324		Internet	Nonpartisan	None
+36.0	46.0	5.0	9.0	4.0	riley-research-kgw-the-oregonian-26273	Riley Research/KGW/The Oregonian	2016-10-04	2016-10-14		Likely Voters	608	3.97	Live Phone	Nonpartisan	None
+36.0	43.0	7.0	8.0	7.0	dhm-research-oregon-public-broadcasting-26258	DHM Research/Oregon Public Broadcasting	2016-10-06	2016-10-13		Likely Voters	600	4.0	Live Phone	Nonpartisan	None
+37.0	47.0			16.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	616		Internet	Nonpartisan	None
+38.0	48.0	6.0	4.0	5.0	surveyusa-katu-tv-26170	SurveyUSA/KATU-TV	2016-10-10	2016-10-12		Likely Voters	654	3.9	IVR/Online	Nonpartisan	None
+43.0	51.0		7.0		upi-cvoter-26062	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	320		Internet	Nonpartisan	None
+36.0	51.0			13.0	ipsos-reuters-26128	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	626		Internet	Nonpartisan	None
+39.0	47.0	4.0	2.0	8.0	gravis-marketing-breitbart-26009	Gravis Marketing/Breitbart	2016-10-04	2016-10-04	If the election was held today, who would be your choice for president?	Registered Voters	1248	2.8	IVR/Online	Nonpartisan	None
+45.0	50.0		5.0		upi-cvoter-25934	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	502		Internet	Nonpartisan	None
+33.0	45.0	8.0	3.0	11.0	hoffman-research-r-25954	Hoffman Research (R)	2016-09-29	2016-10-01		Likely Voters	605	4.0	Live Phone	Pollster	Rep
+38.0	48.0			14.0	ipsos-reuters-25881	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	583		Internet	Nonpartisan	None
+44.0	51.0		6.0		upi-cvoter-25769	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	508		Internet	Nonpartisan	None
+41.0	44.0			15.0	ipsos-reuters-25703	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	505		Internet	Nonpartisan	None
+41.0	44.0			15.0	ipsos-reuters-25567	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	687		Internet	Nonpartisan	None
+28.0	43.0	11.0	10.0	8.0	icitizen-25469	ICITIZEN	2016-09-02	2016-09-07	If the November 2016 general election for U.S. President were held today and these were the candidates, for whom would you vote... Hillary Clinton, the Democratic candidate, Donald Trump, the Republican candidate, Gary Johnson, the Libertarian candidate, or Jill Stein, the Green Candidate?	Registered Voters	610	4.0	Internet	Nonpartisan	None
+25.0	38.0	10.0	11.0	17.0	dhm-25426	DHM	2016-09-01	2016-09-06	If the 2016 presidential election were held today, and the candidates were Hillary Clinton, the Democrat; Donald Trump, the Republican; Gary Johnson, the Libertarian; and Jill Stein of the Green Party, who would you vote for?	Registered Voters	517	4.3	Live Phone	Nonpartisan	None
+36.0	55.0			9.0	washpost-surveymonkey-25386	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	877		Internet	Nonpartisan	None
+32.0	47.0	11.0	7.0	3.0	washpost-surveymonkey-25386	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	877		Internet	Nonpartisan	None
+40.0	43.0	6.0	3.0	8.0	clout-research-r-24981	Clout Research (R)	2016-07-09	2016-07-13	If you were voting today in the election for President of the United States, and the candidates were Democrat Hillary Clinton and Republican Donald Trump, Libertarian Gary Johnson, and Pacific Green Party candidate Jill Stein for whom would you vote?	Likely Voters	701	3.7	Live Phone	Pollster	Rep
+32.0	46.0			22.0	icitizen-24858	ICITIZEN	2016-06-23	2016-06-27		Registered Voters	555		Internet	Nonpartisan	None
+44.0	42.0			13.0	clout-research-r-24571	Clout Research (R)	2016-05-10	2016-05-13		Likely Voters	657	3.82	Live Phone	Pollster	Rep
+32.0	43.0		11.0	15.0	dhm-research-oregon-public-broadcasting-fox-12-24481	DHM Research/Oregon Public Broadcasting/Fox 12	2016-05-06	2016-05-09		Likely Voters	901	3.3	Live Phone	Nonpartisan	None

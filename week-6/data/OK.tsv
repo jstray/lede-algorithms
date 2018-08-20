@@ -1,0 +1,34 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+57.0	32.0	10.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1271		Internet	Nonpartisan	None
+63.0	34.0	4.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	323		Internet	Nonpartisan	None
+56.0	32.0	10.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1116		Internet	Nonpartisan	None
+61.0	30.0		9.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	664		Internet	Nonpartisan	None
+57.0	31.0	10.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1050		Internet	Nonpartisan	None
+56.0	32.0	10.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	905		Internet	Nonpartisan	None
+60.0	30.0		10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	652		Internet	Nonpartisan	None
+56.0	32.0	10.0	2.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	737		Internet	Nonpartisan	None
+55.0	32.0	11.0	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	519		Internet	Nonpartisan	None
+54.0	31.0	12.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	472		Internet	Nonpartisan	None
+57.0	30.0	11.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	430		Internet	Nonpartisan	None
+63.0	33.0	4.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	321		Internet	Nonpartisan	None
+57.0	30.0	10.0	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	528		Internet	Nonpartisan	None
+52.0	36.0		12.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	842		Internet	Nonpartisan	None
+55.0	31.0	11.0	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	573		Internet	Nonpartisan	None
+56.0	32.0	10.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	493		Internet	Nonpartisan	None
+57.0	32.0	8.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	423		Internet	Nonpartisan	None
+63.0	34.0	4.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	318		Internet	Nonpartisan	None
+60.0	30.0	5.0	6.0	soonerpoll-com-26382	SoonerPoll.com	2016-10-18	2016-10-20	If you were standing in the voting booth right now and had to make a choice for president, for whom would you vote?	Likely Voters	530	4.26	Live Phone/Online	Nonpartisan	None
+51.0	36.0		13.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	589		Internet	Nonpartisan	None
+63.0	34.0	4.0		upi-cvoter-26324	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	317		Internet	Nonpartisan	None
+51.0	36.0		13.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	647		Internet	Nonpartisan	None
+62.0	34.0	5.0		upi-cvoter-26061	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	319		Internet	Nonpartisan	None
+53.0	33.0		14.0	ipsos-reuters-26127	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	638		Internet	Nonpartisan	None
+65.0	32.0	4.0		upi-cvoter-25933	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	508		Internet	Nonpartisan	None
+54.0	31.0		15.0	ipsos-reuters-25880	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	590		Internet	Nonpartisan	None
+64.0	32.0	4.0		upi-cvoter-25768	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	506		Internet	Nonpartisan	None
+55.0	30.0		15.0	ipsos-reuters-25706	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	547		Internet	Nonpartisan	None
+51.0	36.0	6.0	8.0	soonerpoll-com-25520	SoonerPoll.com	2016-09-13	2016-09-15	If you were standing in the voting booth right now and had to make a choice for president, for whom would you vote?	Likely Voters	515	4.32	Live Phone/Online	Nonpartisan	None
+53.0	32.0		15.0	ipsos-reuters-25566	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	498		Internet	Nonpartisan	None
+57.0	33.0		10.0	washpost-surveymonkey-25385	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1041		Internet	Nonpartisan	None
+49.0	26.0	20.0	4.0	washpost-surveymonkey-25385	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1041		Internet	Nonpartisan	None
+53.0	29.0	7.0	11.0	soonerpoll-com-25038	SoonerPoll.com	2016-07-20	2016-07-25	If you were standing in the voting booth right now and had to make a choice for president, for whom would you vote?	Likely Voters	398	4.91	Live Phone	Nonpartisan	None

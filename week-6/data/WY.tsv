@@ -1,0 +1,17 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+67.0	28.0		5.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	320		Internet	Nonpartisan	None
+62.0	22.0	12.0	4.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	251		Internet	Nonpartisan	None
+62.0	23.0	10.0	5.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	251		Internet	Nonpartisan	None
+65.0	30.0		5.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	311		Internet	Nonpartisan	None
+60.0	24.0	12.0	4.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	375		Internet	Nonpartisan	None
+59.0	25.0	12.0	4.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	388		Internet	Nonpartisan	None
+59.0	25.0	11.0	5.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	361		Internet	Nonpartisan	None
+57.0	25.0	13.0	5.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	311		Internet	Nonpartisan	None
+65.0	30.0		5.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	309		Internet	Nonpartisan	None
+64.0	30.0	6.0		upi-cvoter-26339	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	311		Internet	Nonpartisan	None
+63.0	30.0	6.0		upi-cvoter-26044	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	309		Internet	Nonpartisan	None
+65.0	29.0	5.0		upi-cvoter-25947	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	462		Internet	Nonpartisan	None
+65.0	29.0	6.0		upi-cvoter-25781	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	461		Internet	Nonpartisan	None
+54.0	19.0	12.0	15.0	dfm-research-d-greene-25602	DFM Research (D-Greene)	2016-09-06	2016-09-11	Now let’s look ahead to the November election. If the election was held today for President of the United States, would you vote for Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian, or Jill Stein with the Green Party?	Likely Voters	402	4.9	Live Phone	Sponsor	Dem
+65.0	27.0		8.0	washpost-surveymonkey-25396	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	727		Internet	Nonpartisan	None
+57.0	21.0	18.0	4.0	washpost-surveymonkey-25396	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	727		Internet	Nonpartisan	None

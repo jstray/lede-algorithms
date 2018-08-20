@@ -1,0 +1,77 @@
+Trump	Clinton	Johnson	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+40.0	43.0	10.0	4.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2777		Internet	Nonpartisan	None
+44.0	50.0		6.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	343		Internet	Nonpartisan	None
+39.0	43.0	11.0	4.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2412		Internet	Nonpartisan	None
+42.0	48.0			10.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	696		Internet	Nonpartisan	None
+43.0	48.0	4.0	3.0	3.0	ppp-d-26721	PPP (D)	2016-11-03	2016-11-04	The candidates for President are Democrat Hillary Clinton, Republican Donald Trump, Libertarian Gary Johnson, Green Party candidate Jill Stein, and independent Evan McMullin. If the election was today, who would you vote for?	Likely Voters	704	3.7	IVR/Online	Pollster	Dem
+45.0	50.0			5.0	ppp-d-26721	PPP (D)	2016-11-03	2016-11-04	If you had to choose between just Democrat Hillary Clinton and Republican Donald Trump, who would you vote for?	Likely Voters	704	3.7	IVR/Online	Pollster	Dem
+40.0	43.0	11.0	4.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2302		Internet	Nonpartisan	None
+38.0	43.0	7.0	7.0	6.0	keating-d-onsight-public-affairs-26725	Keating (D-OnSight Public Affairs)	2016-11-02	2016-11-03		Likely Voters	605	4.0	Live Phone	Sponsor	Dem
+40.0	44.0	10.0	3.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1927		Internet	Nonpartisan	None
+42.0	48.0			10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	713		Internet	Nonpartisan	None
+41.0	42.0	6.0	5.0	6.0	remington-research-group-r-axiom-strategies-26760	Remington Research Group (R)/Axiom Strategies	2016-11-01	2016-11-02		Likely Voters	1863	2.27	IVR/Live Phone	Sponsor	Rep
+40.0	40.0	7.0	10.0	3.0	gravis-marketing-breitbart-26737	Gravis Marketing/Breitbart	2016-11-01	2016-11-02	If the election was held today, who would be your choice for president?	Registered Voters	1125	2.9	IVR/Online	Nonpartisan	None
+38.0	44.0	7.0	4.0	7.0	magellan-r-26678	Magellan (R)	2016-11-01	2016-11-02	If the election for President were being held today, would you vote for Hillary Clinton the Democratic candidate, Donald Trump the Republican candidate, Gary Johnson the Libertarian candidate, or Jill Stein, the Green Party candidate?	Likely Voters	500	4.38	Live Phone	Pollster	Rep
+40.0	44.0	10.0	4.0	2.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	1631		Internet	Nonpartisan	None
+37.0	44.0	9.0	3.0	8.0	lucid-the-times-picayune-26644	Lucid/The Times-Picayune	2016-10-28	2016-11-01		Likely Voters	972		Internet	Nonpartisan	None
+40.0	43.0	11.0	4.0	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	1402		Internet	Nonpartisan	None
+41.0	42.0		10.0	7.0	university-of-denver-ciruli-26677	University of Denver/Ciruli	2016-10-29	2016-10-31		Likely Voters	550	4.2	Live Phone	Nonpartisan	None
+39.0	39.0	5.0	9.0	9.0	university-of-denver-ciruli-26677	University of Denver/Ciruli	2016-10-29	2016-10-31		Likely Voters	550	4.2	Live Phone	Nonpartisan	None
+39.0	43.0	11.0	4.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	1532		Internet	Nonpartisan	None
+44.0	45.0	4.0	3.0	4.0	remington-research-group-r-axiom-strategies-26567	Remington Research Group (R)/Axiom Strategies	2016-10-30	2016-10-30		Likely Voters	952	3.17	IVR/Live Phone	Sponsor	Rep
+39.0	44.0	11.0	4.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	1417		Internet	Nonpartisan	None
+46.0	50.0		5.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	342		Internet	Nonpartisan	None
+39.0	42.0	7.0	6.0	5.0	cbs-yougov-26546	CBS/YouGov	2016-10-26	2016-10-28		Likely Voters	997	4.1	Internet	Nonpartisan	None
+38.0	45.0	11.0	4.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	1731		Internet	Nonpartisan	None
+43.0	46.0			11.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	598		Internet	Nonpartisan	None
+38.0	45.0	11.0	4.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	1800		Internet	Nonpartisan	None
+38.0	44.0	12.0	3.0	3.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1595		Internet	Nonpartisan	None
+34.0	44.0	9.0	13.0		u-colorado-boulder-26672	U Colorado Boulder	2016-10-17	2016-10-24		Adults	1004		Internet	Nonpartisan	None
+38.0	44.0	12.0	3.0	3.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1318		Internet	Nonpartisan	None
+45.0	50.0		5.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	344		Internet	Nonpartisan	None
+43.0	45.0	5.0	2.0	4.0	remington-research-group-r-axiom-strategies-26419	Remington Research Group (R)/Axiom Strategies	2016-10-20	2016-10-22		Likely Voters	1581	2.46	IVR/Live Phone	Sponsor	Rep
+41.0	45.0			14.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	575		Internet	Nonpartisan	None
+37.0	45.0	10.0	4.0	5.0	quinnipiac-26214	Quinnipiac	2016-10-10	2016-10-16	If the presidential election were being held today, and the candidates were Hillary Clinton and Tim Kaine the Democrats, Donald Trump and Mike Pence the Republicans, Gary Johnson and Bill Weld the Libertarians, and Jill Stein and Ajamu Baraka the Green party candidates, for whom would you vote?	Likely Voters	685	3.7	Live Phone	Nonpartisan	None
+40.0	51.0		2.0	8.0	quinnipiac-26214	Quinnipiac	2016-10-10	2016-10-16	If the only candidates were Hillary Clinton and Tim Kaine the Democrats and Donald Trump and Mike Pence the Republicans, for whom would you vote?	Likely Voters	685	3.7	Live Phone	Nonpartisan	None
+45.0	50.0		5.0		upi-cvoter-26293	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	336		Internet	Nonpartisan	None
+41.0	50.0			8.0	washpost-surveymonkey-26239	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	956		Internet	Nonpartisan	None
+37.0	44.0	12.0	4.0	3.0	washpost-surveymonkey-26239	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	956		Internet	Nonpartisan	None
+35.0	40.0	12.0	7.0	6.0	magellan-r-26256	Magellan (R)	2016-10-12	2016-10-13	If the election for President were being held today, would you vote for Hillary Clinton the Democratic candidate, Donald Trump the Republican candidate, Gary Johnson the Libertarian candidate, or Jill Stein, the Green Party candidate?	Likely Voters	500	4.38	Live Phone	Pollster	Rep
+39.0	44.0	6.0	2.0	9.0	gravis-marketing-breitbart-26186	Gravis Marketing/Breitbart	2016-10-12	2016-10-13	If the election was held today, who would be your choice for president?	Registered Voters	1226	2.8	IVR/Online	Nonpartisan	None
+41.0	47.0			12.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	695		Internet	Nonpartisan	None
+44.0	50.0		6.0		upi-cvoter-26027	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	338		Internet	Nonpartisan	None
+45.0	45.0			10.0	ipsos-reuters-26101	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	710		Internet	Nonpartisan	None
+40.0	40.0	10.0	3.0	6.0	gravis-marketing-breitbart-26008	Gravis Marketing/Breitbart	2016-10-03	2016-10-04	If the election was held today, who would be your choice for president?	Registered Voters	1246	2.8	IVR/Online	Nonpartisan	None
+38.0	49.0	7.0	4.0	3.0	monmouth-university-25839	Monmouth University	2016-09-29	2016-10-02	If the election for President was today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, or Jill Stein of the Green Party?	Likely Voters	400	4.9	Live Phone	Nonpartisan	None
+47.0	48.0		5.0		upi-cvoter-25903	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	553		Internet	Nonpartisan	None
+33.0	44.0	10.0	7.0	6.0	keating-d-25892	Keating (D)	2016-09-27	2016-09-29		Likely Voters	602	4.0	Live Phone	Pollster	Dem
+45.0	43.0			12.0	ipsos-reuters-25854	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	622		Internet	Nonpartisan	None
+40.0	46.0	6.0	2.0	6.0	ppp-d-vote-vets-action-fund-25795	PPP (D-Vote Vets Action Fund)	2016-09-27	2016-09-28	The candidates for President are Democrat Hillary Clinton, Republican Donald Trump, Libertarian Gary Johnson, and Green Party candidate Jill Stein. If the election was today, who would you vote for?	Likely Voters	694	3.7	IVR/Online	Pollster	Dem
+44.0	51.0			5.0	ppp-d-vote-vets-action-fund-25795	PPP (D-Vote Vets Action Fund)	2016-09-27	2016-09-28	If you had to choose between just Democrat Hillary Clinton and Republican Donald Trump, who would you vote for?	Likely Voters	694	3.7	IVR/Online	Pollster	Dem
+42.0	41.0	13.0	3.0	0.0	cnn-25651	CNN	2016-09-20	2016-09-25	Suppose that the presidential election were being held today and you had to choose between Hillary Clinton and Tim Kaine as the Democratic Party’s candidates, Donald Trump and Mike Pence as the Republican Party’s candidates, Gary Johnson and Bill Weld as the Libertarian Party’s candidates, and Jill Stein and Ajamu Baraka as the Green Party’s candidates. Who would you be more likely to vote for?	Likely Voters	784	3.5	Live Phone	Nonpartisan	None
+47.0	49.0		3.0	0.0	cnn-25651	CNN	2016-09-20	2016-09-25	Now suppose that the presidential candidates on the ballot in your state included only Hillary Clinton as the Democratic Party’s candidate and Donald Trump and as the Republican Party’s candidate, who would you be more likely to vote for?	Likely Voters	784	3.5	Live Phone	Nonpartisan	None
+45.0	49.0		6.0		upi-cvoter-25732	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	538		Internet	Nonpartisan	None
+39.0	40.0		11.0	10.0	cbs-yougov-25645	CBS/YouGov	2016-09-21	2016-09-23		Likely Voters	991	4.4	Internet	Nonpartisan	None
+44.0	42.0			14.0	ipsos-reuters-25683	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	534		Internet	Nonpartisan	None
+42.0	44.0	10.0	2.0	2.0	quinnipiac-25622	Quinnipiac	2016-09-13	2016-09-21	If the presidential election were being held today, and the candidates were Hillary Clinton and Tim Kaine the Democrats, Donald Trump and Mike Pence the Republicans, Gary Johnson and Bill Weld the Libertarians, and Jill Stein and Ajamu Baraka the Green party candidates, for whom would you vote?	Likely Voters	644	3.9	Live Phone	Nonpartisan	None
+47.0	47.0		2.0	4.0	quinnipiac-25622	Quinnipiac	2016-09-13	2016-09-21	If the only candidates were Hillary Clinton and Tim Kaine the Democrats and Donald Trump and Mike Pence the Republicans, for whom would you vote?	Likely Voters	644	3.9	Live Phone	Nonpartisan	None
+35.0	44.0		14.0	7.0	franklin-and-marshall-college-colorado-mesa-university-25616	Franklin and Marshall College/Colorado Mesa University	2016-09-14	2016-09-18	If the November general election for president was being held today and the candidates were Donald Trump, the Republican, Hillary Clinton, the Democrat, would you vote for Donald Trump, Hillary Clinton, some other candidate, or aren't you sure how you would vote?	Likely Voters	350	6.3	Live Phone/Online	Nonpartisan	None
+34.0	41.0	12.0	3.0	10.0	franklin-and-marshall-college-colorado-mesa-university-25616	Franklin and Marshall College/Colorado Mesa University	2016-09-14	2016-09-18	If the November general election for president was being held today and the candidates were Donald Trump, the Republican, Hillary Clinton, the Democrat, Jill Stein, the Green candidate, and Gary Johnson, the Libertarian candidate, would you vote for …or aren't you sure how you would vote?	Likely Voters	350	6.3	Live Phone/Online	Nonpartisan	None
+43.0	40.0			17.0	ipsos-reuters-25541	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	563		Internet	Nonpartisan	None
+44.0	46.0			10.0	washpost-surveymonkey-25349	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2428		Internet	Nonpartisan	None
+37.0	37.0	16.0	6.0	4.0	washpost-surveymonkey-25349	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2428		Internet	Nonpartisan	None
+36.0	41.0	13.0	4.0	6.0	magellan-r-25419	Magellan (R)	2016-08-29	2016-08-31	If the election for President were being held today, would you vote for Hillary Clinton the Democratic candidate, Donald Trump the Republican candidate, Gary Johnson the Libertarian candidate, or Jill Stein, the Green Party candidate?	Likely Voters	500	4.38	Live Phone	Pollster	Rep
+39.0	49.0		4.0	9.0	quinnipiac-25199	Quinnipiac	2016-08-09	2016-08-16	If the election for President were being held today, and the candidates were Hillary Clinton the Democrat and Donald Trump the Republican, for whom would you vote?	Likely Voters	830	3.4	Live Phone	Nonpartisan	None
+33.0	41.0	16.0	7.0	3.0	quinnipiac-25199	Quinnipiac	2016-08-09	2016-08-16	If the election for President were being held today, and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian, and Jill Stein the Green party candidate, for whom would you vote?	Likely Voters	830	3.4	Live Phone	Nonpartisan	None
+32.0	46.0		15.0	6.0	nbc-wsj-marist-25150	NBC/WSJ/Marist	2016-08-04	2016-08-10	If November's presidential election were held today, whom would you support if the candidates are:	Registered Voters	899	3.3	Live Phone	Nonpartisan	None
+29.0	41.0	15.0	7.0	8.0	nbc-wsj-marist-25150	NBC/WSJ/Marist	2016-08-04	2016-08-10	If November's presidential election were held today, whom would you support if the candidates are:	Registered Voters	899	3.3	Live Phone	Nonpartisan	None
+34.0	44.0		11.0	11.0	fox-24882	FOX	2016-07-09	2016-07-12	If the 2016 presidential election were held today…How would you vote if the candidates were:	Registered Voters	600	3.0	Live Phone	Nonpartisan	None
+28.0	37.0	13.0	10.0	13.0	fox-24882	FOX	2016-07-09	2016-07-12	How would you vote if the candidates were:	Registered Voters	600	4.0	Live Phone	Nonpartisan	None
+35.0	48.0	5.0	6.0	7.0	monmouth-university-24875	Monmouth University	2016-07-09	2016-07-12		Likely Voters	404	4.9	Live Phone	Nonpartisan	None
+35.0	43.0		21.0		nbc-wsj-marist-24895	NBC/WSJ/Marist	2016-07-05	2016-07-11	If November's presidential election were held today, whom would you support if the candidates are:	Registered Voters	794	3.5	Live Phone	Nonpartisan	None
+33.0	39.0	13.0	7.0	9.0	nbc-wsj-marist-24895	NBC/WSJ/Marist	2016-07-05	2016-07-11	If November's presidential election were held today, whom would you support if the candidates are:	Registered Voters	794	3.5	Live Phone	Nonpartisan	None
+38.0	45.0		14.0	4.0	harper-r-24868	Harper (R)	2016-07-07	2016-07-09		Likely Voters	500	4.38	IVR/Live Phone	Pollster	Rep
+41.0	43.0		16.0		gravis-marketing-24887	Gravis Marketing	2016-07-07	2016-07-08	If you had to vote today in a matchup between Hillary Clinton and Donald Trump, who would you vote for?	Registered Voters	1313	2.7	Automated Phone	Nonpartisan	None
+38.0	39.0	9.0	14.0		gravis-marketing-24887	Gravis Marketing	2016-07-07	2016-07-08	If you had to vote today in a matchup between Hillary Clinton, Donald Trump, Gary Johnson and Jill Stein, who would you vote for?	Registered Voters	1313	2.7	Automated Phone	Nonpartisan	None
+39.0	40.0		9.0	10.0	cbs-yougov-24767	CBS/YouGov	2016-06-21	2016-06-24		Likely Voters	996	4.3	Internet	Nonpartisan	None
+48.0	37.0		4.0	11.0	quinnipiac-23168	Quinnipiac	2015-11-11	2015-11-15		Registered Voters	1262	2.8	Live Phone	Nonpartisan	None

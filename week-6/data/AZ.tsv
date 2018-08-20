@@ -1,0 +1,73 @@
+Trump	Clinton	Johnson	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+42.0	45.0	7.0	3.0	3.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2609		Internet	Nonpartisan	None
+43.0	41.0	5.0	3.0	8.0	insights-west-26813	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	392	4.9	Internet	Nonpartisan	None
+47.0	44.0	4.0	4.0	1.0	data-orbital-r-26792	Data Orbital (R)	2016-11-04	2016-11-06		Likely Voters	550	4.12	Live Phone	Pollster	Rep
+50.0	43.0		7.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	354		Internet	Nonpartisan	None
+43.0	45.0	6.0	3.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2322		Internet	Nonpartisan	None
+47.0	42.0			11.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	857		Internet	Nonpartisan	None
+43.0	44.0	7.0	3.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2154		Internet	Nonpartisan	None
+43.0	44.0	8.0	3.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1748		Internet	Nonpartisan	None
+48.0	42.0			10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	504		Internet	Nonpartisan	None
+47.0	39.0	4.0	4.0	7.0	data-orbital-r-26711	Data Orbital (R)	2016-11-01	2016-11-02		Likely Voters	550	4.12	Live Phone	Pollster	Rep
+43.0	43.0	8.0	3.0	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	1461		Internet	Nonpartisan	None
+46.0	41.0		12.0	2.0	nbc-wsj-marist-26682	NBC/WSJ/Marist	2016-10-30	2016-11-01	If November's presidential election were held today, whom would you support if the candidates are:	Likely Voters	719	3.7	Live Phone	Nonpartisan	None
+45.0	40.0	9.0	5.0	1.0	nbc-wsj-marist-26682	NBC/WSJ/Marist	2016-10-30	2016-11-01	If November's presidential election were held today, whom would you support if the candidates are:	Likely Voters	719	3.7	Live Phone	Nonpartisan	None
+42.0	41.0	8.0	3.0	6.0	lucid-the-times-picayune-26645	Lucid/The Times-Picayune	2016-10-28	2016-11-01		Likely Voters	1113		Internet	Nonpartisan	None
+49.0	44.0	5.0	1.0	0.0	cnn-26620	CNN	2016-10-27	2016-11-01	Suppose that the presidential election were being held today and you had to choose between Hillary Clinton and Tim Kaine as the Democratic Party’s candidates, Donald Trump and Mike Pence as the Republican Party’s candidates, Gary Johnson and Bill Weld as the Libertarian Party’s candidates and Jill Stein and Ajamu Baraka as the Green Party’s candidates. Who would you be more likely to vote for?	Likely Voters	769	3.5	Live Phone	Nonpartisan	None
+51.0	46.0		2.0	0.0	cnn-26620	CNN	2016-10-27	2016-11-01	Now suppose that the presidential candidates on the ballot in your state included only Hillary Clinton as the Democratic Party’s candidate and Donald Trump as the Republican Party’s candidate, who would you be more likely to vote for?	Likely Voters	769	3.5	Live Phone	Nonpartisan	None
+43.0	42.0	8.0	3.0	4.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	1320		Internet	Nonpartisan	None
+44.0	45.0	7.0	4.0		saguaro-26651	Saguaro	2016-10-29	2016-10-31		Likely Voters	2229	3.0	Internet	Nonpartisan	None
+44.0	43.0	8.0	2.0	3.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	1457		Internet	Nonpartisan	None
+45.0	41.0	3.0	3.0	8.0	data-orbital-r-26599	Data Orbital (R)	2016-10-29	2016-10-30		Likely Voters	550	4.12	Live Phone	Pollster	Rep
+43.0	43.0	8.0	3.0	3.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	1342		Internet	Nonpartisan	None
+51.0	43.0		5.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	373		Internet	Nonpartisan	None
+44.0	42.0		9.0	5.0	cbs-yougov-26549	CBS/YouGov	2016-10-26	2016-10-28		Likely Voters	994	4.3	Internet	Nonpartisan	None
+43.0	42.0	9.0	3.0	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	1747		Internet	Nonpartisan	None
+42.0	40.0	5.0	4.0	10.0	data-orbital-r-26536	Data Orbital (R)	2016-10-26	2016-10-27		Likely Voters	550	4.12	Live Phone	Pollster	Rep
+42.0	43.0			15.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	954		Internet	Nonpartisan	None
+43.0	42.0	10.0	4.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	1752		Internet	Nonpartisan	None
+46.0	48.0	5.0	1.0		saguaro-26523	Saguaro	2016-10-22	2016-10-24		Likely Voters	2385	3.0	Internet	Nonpartisan	None
+46.0	45.0	4.0	3.0	3.0	monmouth-university-26428	Monmouth University	2016-10-21	2016-10-24	If the election for President was today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, or Jill Stein of the Green Party?	Likely Voters	401	4.9	Live Phone	Nonpartisan	None
+42.0	41.0	12.0	4.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1550		Internet	Nonpartisan	None
+41.0	40.0	13.0	4.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1291		Internet	Nonpartisan	None
+51.0	44.0		5.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	363		Internet	Nonpartisan	None
+45.0	43.0			12.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	675		Internet	Nonpartisan	None
+41.0	41.0	5.0	3.0	10.0	data-orbital-r-26340	Data Orbital (R)	2016-10-17	2016-10-18		Likely Voters	550	4.12	Live Phone	Pollster	Rep
+45.0	38.0		8.0	9.0	ipsos-reuters-26443	Ipsos/Reuters	2016-10-06	2016-10-18		Likely Voters	1538	2.8	Internet	Nonpartisan	None
+44.0	39.0	6.0	4.0	6.0	ipsos-reuters-26443	Ipsos/Reuters	2016-10-06	2016-10-18		Likely Voters	1538	2.8	Internet	Nonpartisan	None
+51.0	44.0		6.0		upi-cvoter-26290	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	355		Internet	Nonpartisan	None
+47.0	46.0			7.0	washpost-surveymonkey-26238	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	1028		Internet	Nonpartisan	None
+44.0	41.0	10.0	3.0	2.0	washpost-surveymonkey-26238	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	1028		Internet	Nonpartisan	None
+38.0	43.0	7.0	4.0	8.0	arizona-republic-morrison-cronkite-news-26264	Arizona Republic/Morrison/Cronkite News 	2016-10-10	2016-10-15		Likely Voters	713		Live Phone	Nonpartisan	None
+37.0	39.0	8.0	8.0	10.0	highground-26220	HighGround	2016-10-14	2016-10-14		Likely Voters	400	4.88	Live Phone	Nonpartisan	None
+45.0	39.0			16.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	1665		Internet	Nonpartisan	None
+42.0	43.0	5.0		10.0	data-orbital-r-26205	Data Orbital (R)	2016-10-11	2016-10-12		Likely Voters	550	4.12	Live Phone	Pollster	Rep
+50.0	44.0		6.0		upi-cvoter-26024	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	358		Internet	Nonpartisan	None
+49.0	42.0			9.0	ipsos-reuters-26098	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	903		Internet	Nonpartisan	None
+52.0	42.0		6.0		upi-cvoter-25900	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	556		Internet	Nonpartisan	None
+42.0	42.0	5.0	1.0	9.0	oh-predictive-insights-r-25986	OH Predictive Insights (R)	2016-09-28	2016-09-30		Likely Voters	718	3.66	IVR/Live Phone	Pollster	Rep
+46.0	44.0			10.0	ipsos-reuters-25851	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	802		Internet	Nonpartisan	None
+52.0	42.0		7.0		upi-cvoter-25729	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	554		Internet	Nonpartisan	None
+40.0	38.0	9.0		14.0	data-orbital-r-25721	Data Orbital (R)	2016-09-20	2016-09-22		Likely Voters	550	4.12	Live Phone	Pollster	Rep
+48.0	42.0			10.0	ipsos-reuters-25679	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	665		Internet	Nonpartisan	None
+46.0	39.0			15.0	ipsos-reuters-25538	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	711		Internet	Nonpartisan	None
+37.0	33.0	8.0	3.0	19.0	insights-west-25626	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	484	4.5	Internet	Nonpartisan	None
+42.0	41.0		12.0	4.0	nbc-wsj-marist-25445	NBC/WSJ/Marist	2016-09-06	2016-09-08	If November's presidential election were held today, whom would you support if the candidates are:	Likely Voters	649	3.8	Live Phone	Nonpartisan	None
+40.0	38.0	12.0	4.0	6.0	nbc-wsj-marist-25445	NBC/WSJ/Marist	2016-09-06	2016-09-08	If November's presidential election were held today, whom would you support if the candidates are:	Likely Voters	649	3.8	Live Phone	Nonpartisan	None
+45.0	46.0			9.0	washpost-surveymonkey-25351	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2026		Internet	Nonpartisan	None
+39.0	37.0	13.0	4.0	6.0	washpost-surveymonkey-25351	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2026		Internet	Nonpartisan	None
+34.0	35.0	7.0	2.0	23.0	arizona-republic-morrison-cronkite-news-26257	Arizona Republic/Morrison/Cronkite News 	2016-08-17	2016-08-31		Likely Voters	704	3.3	Live Phone	Nonpartisan	None
+46.0	43.0			11.0	ppp-d-nelp-25314	PPP (D-NELP) 	2016-08-26	2016-08-28	The candidates for President are Democrat Hillary Clinton and Republican Donald Trump. If the election were today, who would you vote for?	Likely Voters	837	3.4	IVR/Online	Sponsor	Dem
+39.0	40.0	7.0	1.0	13.0	oh-predictive-insights-r-25280	OH Predictive Insights (R)	2016-08-25	2016-08-27		Likely Voters	728	3.63	IVR/Live Phone	Pollster	Rep
+49.0	44.0		7.0	0.0	cnn-25252	CNN	2016-08-18	2016-08-23	Suppose that the presidential election were being held today and you had to choose between Hillary Clinton and Tim Kaine as the Democratic Party’s candidates, and Donald Trump and Mike Pence as the Republican Party’s candidates. Who would you be more likely to vote for?	Likely Voters	809	3.5	Live Phone	Nonpartisan	None
+45.0	38.0	12.0	6.0	0.0	cnn-25252	CNN	2016-08-18	2016-08-23	Now suppose that the presidential candidates on the ballot in your state included Hillary Clinton as the Democratic Party’s candidate, Donald Trump as the Republican Party’s candidate, Gary Johnson as the Libertarian Party candidate, and Jill Stein as the Green Party candidate, who would you be more likely to vote for?	Likely Voters	809	3.5	Live Phone	Nonpartisan	None
+44.0	42.0		9.0	5.0	cbs-yougov-25079	CBS/YouGov	2016-08-02	2016-08-05	If the 2016 presidential election were being held today and the candidates were Hillary Clinton, the Democrat, and Donald Trump, the Republican, who would you vote for? (Voters selecting someone else in the initial question were given a choice of a selection of third party candidates)	Likely Voters	1095	4.8	Internet	Nonpartisan	None
+44.0	40.0			16.0	ppp-d-americans-united-for-change-constitutional-responsibility-project-24785	PPP (D-Americans United for Change/Constitutional Responsibility Project) 	2016-06-22	2016-06-23		Likely Voters	691	3.7	IVR/Online	Sponsor	Dem
+42.0	47.0		6.0	6.0	oh-predictive-insights-r-24751	OH Predictive Insights (R)	2016-06-20	2016-06-20		Likely Voters	1060	3.01	Automated Phone	Pollster	Rep
+48.0	43.0		6.0	3.0	gqr-d-democracy-corps-women-s-voices-women-vote-24841	GQR (D-Democracy Corps/Women's Voices Women Vote)	2016-06-11	2016-06-20		Likely Voters	300	5.66	Live Phone	Sponsor	Dem
+45.0	39.0	10.0	3.0	4.0	gqr-d-democracy-corps-women-s-voices-women-vote-24841	GQR (D-Democracy Corps/Women's Voices Women Vote)	2016-06-11	2016-06-20		Likely Voters	300	5.66	Live Phone	Sponsor	Dem
+40.0	38.0	6.0	2.0	13.0	ppp-d-24504	PPP (D)	2016-05-13	2016-05-15		Likely Voters	896	3.3	IVR/Online	Pollster	Dem
+45.0	41.0			14.0	ppp-d-24504	PPP (D)	2016-05-13	2016-05-15		Likely Voters	896	3.3	IVR/Online	Pollster	Dem
+35.0	42.0			23.0	behavior-research-center-24357	Behavior Research Center	2016-04-04	2016-04-11		Registered Voters	564	4.2	Live Phone	Nonpartisan	None
+38.0	38.0		9.0	15.0	merrill-westgroup-24105	Merrill/WestGroup	2016-03-07	2016-03-11		Likely Voters	701	3.7	Live Phone	Nonpartisan	None
+44.0	42.0			13.0	strategies-360-23359	Strategies 360	2015-12-04	2015-12-09		Likely Voters	504	4.4	Live Phone	Nonpartisan	None

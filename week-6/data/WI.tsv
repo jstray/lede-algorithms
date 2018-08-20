@@ -1,0 +1,73 @@
+Trump	Clinton	Johnson	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+42.0	44.0	7.0	4.0	3.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2246		Internet	Nonpartisan	None
+43.0	51.0		6.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	372		Internet	Nonpartisan	None
+43.0	44.0	7.0	4.0	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1943		Internet	Nonpartisan	None
+40.0	46.0			14.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	842		Internet	Nonpartisan	None
+43.0	44.0	7.0	3.0	3.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1869		Internet	Nonpartisan	None
+43.0	45.0	7.0	3.0	3.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1568		Internet	Nonpartisan	None
+40.0	47.0			13.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	884		Internet	Nonpartisan	None
+41.0	49.0	3.0	3.0	4.0	remington-research-group-r-axiom-strategies-26765	Remington Research Group (R)/Axiom Strategies	2016-11-01	2016-11-02		Likely Voters	2720	1.88	IVR/Live Phone	Sponsor	Rep
+42.0	44.0	7.0	3.0	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	1271		Internet	Nonpartisan	None
+38.0	44.0	7.0	2.0	9.0	loras-college-26706	Loras College	2016-10-31	2016-11-01	If the Presidential election were held today, and the candidates were Hillary Clinton for the Democrats and Donald Trump for the Republicans, Gary Johnson for the Libertarians and Jill Stein for the Green Party, for whom would you vote?	Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+41.0	48.0			10.0	ppp-d-center-for-american-progress-action-fund-26700	PPP (D-Center for American Progress Action Fund)	2016-10-31	2016-11-01	The candidates for President this fall are Democrat Hillary Clinton, and Republican Donald Trump. If the election were today, who would you vote for?	Likely Voters	891	3.3	IVR/Online	Sponsor	Dem
+42.0	44.0	8.0	3.0	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	1103		Internet	Nonpartisan	None
+40.0	46.0		10.0	4.0	marquette-law-school-26627	Marquette Law School	2016-10-26	2016-10-31	If the election for president were being held today and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian and Jill Stein the Green Party, for whom would you vote?	Likely Voters	1255	3.5	Live Phone	Nonpartisan	None
+42.0	44.0	7.0	4.0	3.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	1195		Internet	Nonpartisan	None
+42.0	46.0	4.0	3.0	5.0	remington-research-group-r-axiom-strategies-26560	Remington Research Group (R)/Axiom Strategies	2016-10-30	2016-10-30		Likely Voters	1772	2.86	IVR/Live Phone	Sponsor	Rep
+41.0	45.0	8.0	4.0	3.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	1059		Internet	Nonpartisan	None
+46.0	51.0		3.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	365		Internet	Nonpartisan	None
+42.0	43.0	8.0	4.0	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	1338		Internet	Nonpartisan	None
+42.0	47.0			11.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	563		Internet	Nonpartisan	None
+42.0	43.0	9.0	3.0	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	1524		Internet	Nonpartisan	None
+41.0	43.0	10.0	3.0	3.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1351		Internet	Nonpartisan	None
+42.0	43.0	10.0	2.0	3.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1140		Internet	Nonpartisan	None
+46.0	51.0		3.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	364		Internet	Nonpartisan	None
+41.0	46.0	5.0	2.0	6.0	remington-research-group-r-axiom-strategies-26426	Remington Research Group (R)/Axiom Strategies	2016-10-20	2016-10-22		Likely Voters	1795	2.31	IVR/Live Phone	Sponsor	Rep
+42.0	45.0			13.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	646		Internet	Nonpartisan	None
+38.0	50.0			12.0	ppp-d-end-citizens-united-26282	PPP (D-End Citizens United)	2016-10-18	2016-10-19	The candidates for President this fall are Democrat Hillary Clinton and Republican Donald Trump. If the election were today, who would you vote for?	Likely Voters	804	3.5	IVR/Online	Sponsor	Dem
+40.0	47.0	6.0	3.0	5.0	monmouth-university-26274	Monmouth University	2016-10-15	2016-10-18	If the election for President was today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, or Jill Stein of the Green Party?	Likely Voters	403	4.9	Live Phone	Nonpartisan	None
+39.0	47.0	1.0	6.0	7.0	st-norbert-26236	St Norbert	2016-10-13	2016-10-16		Likely Voters	664	3.8	Live Phone	Nonpartisan	None
+46.0	51.0		3.0		upi-cvoter-26338	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	361		Internet	Nonpartisan	None
+44.0	48.0			8.0	washpost-surveymonkey-26253	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	1076		Internet	Nonpartisan	None
+38.0	43.0	12.0	4.0	3.0	washpost-surveymonkey-26253	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	1076		Internet	Nonpartisan	None
+37.0	42.0			21.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	810		Internet	Nonpartisan	None
+42.0	46.0		8.0	4.0	marquette-law-school-26150	Marquette Law School	2016-10-06	2016-10-09	If the election for president were being held today and the candidates were Hillary Clinton the Democrat and Donald Trump the Republican, for whom would you vote?	Likely Voters	878	3.9	Live Phone	Nonpartisan	None
+37.0	44.0	9.0	5.0	5.0	marquette-law-school-26150	Marquette Law School	2016-10-06	2016-10-09	If the election for president were being held today and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian and Jill Stein the Green Party, for whom would you vote?	Likely Voters	878	3.9	Live Phone	Nonpartisan	None
+46.0	51.0		4.0		upi-cvoter-26045	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	349		Internet	Nonpartisan	None
+39.0	43.0	4.0	3.0	11.0	cbs-yougov-26016	CBS/YouGov	2016-10-05	2016-10-07		Likely Voters	993	4.3	Internet	Nonpartisan	None
+42.0	46.0			12.0	ipsos-reuters-26137	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	866		Internet	Nonpartisan	None
+37.0	47.0		7.0	9.0	loras-college-26083	Loras College	2016-10-04	2016-10-05	If the Presidential election were held today, and the candidates were Hillary Clinton for the Democrats and Donald Trump for the Republicans, for whom would you vote?	Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+35.0	43.0	8.0	2.0	12.0	loras-college-26083	Loras College	2016-10-04	2016-10-05	If the Presidential election were held today, and the candidates were Hillary Clinton for the Democrats and Donald Trump for the Republicans, Gary Johnson for the Libertarians and Jill Stein for the Green Party, for whom would you vote?	Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+47.0	50.0		3.0		upi-cvoter-25946	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	575		Internet	Nonpartisan	None
+42.0	42.0			16.0	ipsos-reuters-25890	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	751		Internet	Nonpartisan	None
+46.0	50.0		4.0		upi-cvoter-25782	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	553		Internet	Nonpartisan	None
+41.0	41.0			18.0	ipsos-reuters-25686	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	685		Internet	Nonpartisan	None
+42.0	44.0	1.0	8.0	5.0	marquette-law-school-25601	Marquette Law School	2016-09-15	2016-09-18	If the election for president were being held today and the candidates were Hillary Clinton the Democrat and Donald Trump the Republican, for whom would you vote?	Likely Voters	642	4.8	Live Phone	Nonpartisan	None
+38.0	41.0	11.0	4.0	6.0	marquette-law-school-25601	Marquette Law School	2016-09-15	2016-09-18	If the election for president were being held today and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian and Jill Stein the Green Party, for whom would you vote?	Likely Voters	642	4.8	Live Phone	Nonpartisan	None
+40.0	43.0			17.0	ipsos-reuters-25576	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	695		Internet	Nonpartisan	None
+44.0	46.0			11.0	washpost-surveymonkey-25347	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2687		Internet	Nonpartisan	None
+37.0	39.0	13.0	4.0	7.0	washpost-surveymonkey-25347	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2687		Internet	Nonpartisan	None
+38.0	43.0	7.0	4.0	8.0	monmouth-university-25303	Monmouth University	2016-08-27	2016-08-30	If the election for President was today, would you vote for Donald Trump the Republican, Hillary Clinton the Democrat, Gary Johnson the Libertarian, or Jill Stein of the Green Party?	Likely Voters	404	4.9	Live Phone	Nonpartisan	None
+42.0	45.0	1.0	7.0	4.0	marquette-law-school-25304	Marquette Law School	2016-08-25	2016-08-28	If the election for president were being held today and the candidates were Hillary Clinton the Democrat and Donald Trump the Republican, for whom would you vote?	Likely Voters	650	5.0	Live Phone	Nonpartisan	None
+38.0	41.0	10.0	7.0	5.0	marquette-law-school-25304	Marquette Law School	2016-08-25	2016-08-28	If the election for president were being held today and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian and Jill Stein the Green Party, for whom would you vote?	Likely Voters	650	5.0	Live Phone	Nonpartisan	None
+41.0	48.0			12.0	ppp-d-nelp-25312	PPP (D-NELP) 	2016-08-26	2016-08-27	The candidates for President this fall are Democrat Hillary Clinton and Republican Donald Trump. If the election were today, who would you vote for?	Likely Voters	1054	3.0	IVR/Online	Sponsor	Dem
+37.0	52.0	0.0	7.0	3.0	marquette-law-school-25118	Marquette Law School	2016-08-04	2016-08-07	If the election for president were being held today and the candidates were Hillary Clinton the Democrat and Donald Trump the Republican, for whom would you vote?	Likely Voters	683	5.0	Live Phone	Nonpartisan	None
+34.0	47.0	9.0	5.0	4.0	marquette-law-school-25118	Marquette Law School	2016-08-04	2016-08-07	If the election for president were being held today and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian and Jill Stein the Green Party, for whom would you vote?	Likely Voters	683	5.0	Live Phone	Nonpartisan	None
+41.0	45.0	0.0	9.0	6.0	marquette-law-school-24879	Marquette Law School	2016-07-07	2016-07-10	If the election for president were being held today and the candidates were Hillary Clinton the Democrat and Donald Trump the Republican, for whom would you vote?	Likely Voters	665	4.9	Live Phone	Nonpartisan	None
+37.0	43.0	8.0	5.0	7.0	marquette-law-school-24879	Marquette Law School	2016-07-07	2016-07-10	If the election for president were being held today and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian and Jill Stein the Green Party, for whom would you vote?	Likely Voters	665	4.9	Live Phone	Nonpartisan	None
+36.0	41.0		11.0	12.0	cbs-yougov-24768	CBS/YouGov	2016-06-21	2016-06-24		Likely Voters	993	4.3	Internet	Nonpartisan	None
+39.0	47.0			14.0	ppp-d-americans-united-for-change-constitutional-responsibility-project-24790	PPP (D-Americans United for Change/Constitutional Responsibility Project) 	2016-06-22	2016-06-23		Likely Voters	843	3.4	IVR/Online	Sponsor	Dem
+36.0	47.0		7.0	10.0	gqr-d-democracy-corps-women-s-voices-women-vote-24849	GQR (D-Democracy Corps/Women's Voices Women Vote)	2016-06-11	2016-06-20		Likely Voters	300	5.66	Live Phone	Sponsor	Dem
+32.0	44.0	16.0	3.0	5.0	gqr-d-democracy-corps-women-s-voices-women-vote-24849	GQR (D-Democracy Corps/Women's Voices Women Vote)	2016-06-11	2016-06-20		Likely Voters	300	5.66	Live Phone	Sponsor	Dem
+37.0	46.0		13.0	4.0	marquette-law-school-24685	Marquette Law School	2016-06-09	2016-06-12		Likely Voters	666	4.9	Live Phone	Nonpartisan	None
+31.0	43.0				public-opinion-strategies-r-federation-for-children-24567	Public Opinion Strategies (R)/Federation for Children	2016-05-10	2016-05-12		Likely Voters	600	4.0	Live Phone	Pollster	Rep
+34.0	46.0		12.0	9.0	st-norbert-wpr-wptv-24316	St Norbert/WPR/WPTV	2016-04-12	2016-04-15		Registered Voters	616	4.0	Live Phone	Nonpartisan	None
+37.0	47.0			17.0	emerson-college-polling-society-24195	Emerson College Polling Society	2016-03-30	2016-04-03		Likely Voters	1198	2.8	Automated Phone	Nonpartisan	None
+35.0	49.0		6.0	10.0	fox-news-24182	Fox News	2016-03-28	2016-03-30		Likely Voters	1602	2.5	Live Phone	Nonpartisan	None
+37.0	47.0		12.0	5.0	marquette-law-school-24172	Marquette Law School	2016-03-24	2016-03-28		Registered Voters	1405	3.3	Live Phone	Nonpartisan	None
+37.0	48.0		11.0	6.0	marquette-law-school-23872	Marquette Law School	2016-02-18	2016-02-21		Registered Voters	802	4.5	Live Phone	Nonpartisan	None
+38.0	47.0		9.0	6.0	marquette-law-school-23623	Marquette Law School	2016-01-21	2016-01-24		Registered Voters	806	4.0	Live Phone	Nonpartisan	None
+38.0	48.0		9.0	5.0	marquette-law-school-23197	Marquette Law School	2015-11-12	2015-11-15		Registered Voters	803	4.2	Live Phone	Nonpartisan	None
+39.0	50.0			11.0	st-norbert-wpr-wptv-22973	St Norbert/WPR/WPTV	2015-10-14	2015-10-17		Registered Voters	603	4.0	Live Phone	Nonpartisan	None
+36.0	50.0		9.0	4.0	marquette-law-school-22823	Marquette Law School	2015-09-24	2015-09-28		Registered Voters	803	4.1	Live Phone	Nonpartisan	None
+35.0	51.0		10.0	4.0	marquette-law-school-22596	Marquette Law School	2015-08-13	2015-08-16		Registered Voters	802	4.3	Live Phone	Nonpartisan	None

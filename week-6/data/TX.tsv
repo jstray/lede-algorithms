@@ -1,0 +1,49 @@
+Trump	Clinton	Johnson	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+46.0	43.0	6.0	2.0	3.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	3009		Internet	Nonpartisan	None
+54.0	40.0		6.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	472		Internet	Nonpartisan	None
+47.0	42.0	6.0	2.0	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2695		Internet	Nonpartisan	None
+49.0	39.0			12.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	1213		Internet	Nonpartisan	None
+47.0	42.0	6.0	5.0		surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2645		Internet	Nonpartisan	None
+47.0	42.0	6.0	5.0		surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	2322		Internet	Nonpartisan	None
+49.0	40.0			11.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	1297		Internet	Nonpartisan	None
+46.0	42.0	6.0	5.0		surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	2048		Internet	Nonpartisan	None
+49.0	41.0		8.0	2.0	nbc-wsj-marist-26684	NBC/WSJ/Marist	2016-10-30	2016-11-01	If November's presidential election were held today, whom would you support if the candidates are:	Likely Voters	679	3.8	Live Phone	Nonpartisan	None
+49.0	40.0	6.0	4.0	1.0	nbc-wsj-marist-26684	NBC/WSJ/Marist	2016-10-30	2016-11-01	If November's presidential election were held today, whom would you support if the candidates are:	Likely Voters	679	3.8	Live Phone	Nonpartisan	None
+47.0	41.0	7.0	4.0		surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	1969		Internet	Nonpartisan	None
+47.0	41.0	8.0	5.0		surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	2051		Internet	Nonpartisan	None
+46.0	42.0	7.0	5.0		surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	1940		Internet	Nonpartisan	None
+52.0	39.0	3.0	2.0	4.0	dixie-strategies-r-ktvt-cbs-11-26652	Dixie Strategies (R)/KTVT-CBS 11	2016-10-27	2016-10-29	If the Presidential election were held today, for whom would you vote?	Likely Voters	980	3.13	IVR/Live Phone	Pollster	Rep
+55.0	41.0		5.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	429		Internet	Nonpartisan	None
+47.0	40.0	8.0	6.0		surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	2377		Internet	Nonpartisan	None
+48.0	34.0			18.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	1251		Internet	Nonpartisan	None
+47.0	40.0	8.0	6.0		surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	2441		Internet	Nonpartisan	None
+45.0	38.0	7.0		10.0	pulse-crosswind-26524	Pulse/Crosswind	2016-10-22	2016-10-24		Likely Voters	800	3.5	IVR/Online	Nonpartisan	None
+47.0	40.0	8.0	6.0		surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	2148		Internet	Nonpartisan	None
+47.0	39.0	8.0	6.0		surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1764		Internet	Nonpartisan	None
+54.0	41.0		5.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	445		Internet	Nonpartisan	None
+45.0	42.0	7.0	7.0		yougov-university-of-texas-texas-tribune-26496	YouGov/University of Texas/Texas Tribune	2016-10-14	2016-10-23	If the 2016 general election for U.S. president were held today, would you vote for the Republican ticket of Donald Trump and Mike Pence, the Democratic ticket of Hillary Clinton and Tim Kaine, the Libertarian ticket of Gary Johnson and William Weld, the Green Party ticket of Jill Stein and Ajamu Baraka, someone else, or haven’t you thought enough about it to have an opinion?	Likely Voters	959	3.16	Internet	Nonpartisan	None
+46.0	43.0	5.0	3.0	3.0	cbs-yougov-26381	CBS/YouGov	2016-10-20	2016-10-21		Likely Voters	1031	4.4	Internet	Nonpartisan	None
+52.0	39.0			9.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	758		Internet	Nonpartisan	None
+53.0	41.0		5.0		upi-cvoter-26331	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	460		Internet	Nonpartisan	None
+48.0	46.0			5.0	washpost-surveymonkey-26250	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	1332		Internet	Nonpartisan	None
+44.0	42.0	8.0	2.0	3.0	washpost-surveymonkey-26250	WashPost/SurveyMonkey	2016-10-08	2016-10-16		Likely Voters	1332		Internet	Nonpartisan	None
+41.0	38.0	4.0	4.0	13.0	university-of-houston-26255	University of Houston	2016-10-07	2016-10-15		Likely Voters	1000	3.0	Live Phone	Nonpartisan	None
+57.0	32.0			11.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	831		Internet	Nonpartisan	None
+47.0	43.0	3.0	1.0	5.0	surveyusa-tegna-26172	SurveyUSA/TEGNA	2016-10-10	2016-10-12		Likely Voters	638	4.0	IVR/Online	Sponsor	Other
+53.0	41.0		6.0		upi-cvoter-26069	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	425		Internet	Nonpartisan	None
+50.0	34.0			16.0	ipsos-reuters-26132	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	1111		Internet	Nonpartisan	None
+56.0	39.0		5.0		upi-cvoter-25940	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	817		Internet	Nonpartisan	None
+45.0	38.0	4.0	3.0	10.0	dixie-strategies-r-ktvt-cbs-11-26653	Dixie Strategies (R)/KTVT-CBS 11	2016-09-29	2016-10-01	If the Presidential election were held today, for whom would you vote?	Likely Voters	780	3.51	IVR/Live Phone	Pollster	Rep
+48.0	33.0			19.0	ipsos-reuters-25885	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	916		Internet	Nonpartisan	None
+56.0	39.0		5.0		upi-cvoter-25775	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	798		Internet	Nonpartisan	None
+48.0	33.0			19.0	ipsos-reuters-25695	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	875		Internet	Nonpartisan	None
+51.0	29.0			20.0	ipsos-reuters-25571	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	869		Internet	Nonpartisan	None
+42.0	36.0			21.0	texas-lyceum-25501	Texas Lyceum	2016-09-01	2016-09-11	If the 2016 election for president were held today, would you vote for the Republican ticket of Donald Trump and Mike Pence, the Democratic ticket of Hillary Clinton and Tim Kaine, or haven’t you thought enough about it?	Likely Voters	502	4.37	Live Phone	Nonpartisan	None
+39.0	32.0	9.0	3.0	17.0	texas-lyceum-25501	Texas Lyceum	2016-09-01	2016-09-11	And what if the candidates were the Republican ticket of Donald Trump and Mike Pence, the Democratic ticket of Hillary Clinton and Tim Kaine, the Libertarian ticket of Gary Johnson and Bill Weld, the Green Party ticket of Jill Stein, or haven’t you thought enough about it?	Likely Voters	502	4.37	Live Phone	Nonpartisan	None
+45.0	46.0			9.0	washington-post-surveymonkey-25352	Washington Post/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	5147		Internet	Nonpartisan	None
+40.0	40.0	11.0	3.0	6.0	washington-post-surveymonkey-25352	Washington Post/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	5147		Internet	Nonpartisan	None
+44.0	38.0	6.0	2.0	10.0	ppp-d-25184	PPP (D)	2016-08-12	2016-08-14	The candidates for President are Democrat Hillary Clinton, Republican Donald Trump, Libertarian Gary Johnson, and Green Party candidate Jill Stein. If the election was today, who would you vote for?	Likely Voters	944	3.2	IVR/Online	Pollster	Dem
+50.0	44.0			6.0	ppp-d-25184	PPP (D)	2016-08-12	2016-08-14	If you had to choose between just Democrat Hillary Clinton and Republican Donald Trump, who would you vote for?	Likely Voters	944	3.2	IVR/Online	Pollster	Dem
+46.0	36.0		9.0	9.0	dixie-strategies-r-ktvt-cbs-11-25185	Dixie Strategies (R)/KTVT-CBS 11	2016-08-08	2016-08-09	If the Presidential election were held today, for whom would you vote?	Likely Voters	1018	3.1	IVR/Live Phone	Pollster	Rep
+41.0	33.0		19.0	8.0	yougov-university-of-texas-texas-tribune-24775	YouGov/University of Texas/Texas Tribune	2016-06-10	2016-06-19		Registered Voters	1200	2.83	Internet	Nonpartisan	None
+39.0	37.0			25.0	texas-lyceum-22837	Texas Lyceum	2015-09-08	2015-09-21		Likely Voters	633	3.9	Live Phone	Nonpartisan	None

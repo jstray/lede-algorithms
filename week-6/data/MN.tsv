@@ -1,0 +1,40 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+39.0	46.0	12.0	3.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1292		Internet	Nonpartisan	None
+46.0	50.0	4.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	330		Internet	Nonpartisan	None
+37.0	46.0	12.0	4.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1218		Internet	Nonpartisan	None
+36.0	44.0		20.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	762		Internet	Nonpartisan	None
+38.0	46.0	13.0	4.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1188		Internet	Nonpartisan	None
+37.0	47.0	12.0	4.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1055		Internet	Nonpartisan	None
+37.0	42.0		21.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	751		Internet	Nonpartisan	None
+37.0	47.0	12.0	4.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	928		Internet	Nonpartisan	None
+37.0	47.0	11.0	4.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	805		Internet	Nonpartisan	None
+37.0	46.0	13.0	4.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	773		Internet	Nonpartisan	None
+38.0	47.0	13.0	3.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	639		Internet	Nonpartisan	None
+47.0	50.0	3.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	316		Internet	Nonpartisan	None
+37.0	47.0	12.0	4.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	694		Internet	Nonpartisan	None
+37.0	41.0		22.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	881		Internet	Nonpartisan	None
+37.0	47.0	13.0	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	671		Internet	Nonpartisan	None
+39.0	49.0	10.0	3.0	surveyusa-kstp-tv-26558	SurveyUSA/KSTP-TV	2016-10-22	2016-10-25		Likely Voters	656	3.9	IVR/Online	Nonpartisan	None
+42.0	53.0		6.0	surveyusa-kstp-tv-26558	SurveyUSA/KSTP-TV	2016-10-22	2016-10-25		Likely Voters	656	3.9	IVR/Online	Nonpartisan	None
+36.0	47.0	14.0	4.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	566		Internet	Nonpartisan	None
+34.0	48.0	14.0	4.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	452		Internet	Nonpartisan	None
+47.0	50.0	3.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	321		Internet	Nonpartisan	None
+39.0	47.0	8.0	6.0	mason-dixon-star-tribune-26415	Mason-Dixon/Star Tribune	2016-10-20	2016-10-22	If the 2016 general election for president and vice president were held today, which one of the following tickets would get your vote?	Likely Voters	625	4.0	Live Phone	Nonpartisan	None
+32.0	44.0		24.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	553		Internet	Nonpartisan	None
+46.0	51.0	4.0		upi-cvoter-26310	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	329		Internet	Nonpartisan	None
+36.0	43.0		21.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	689		Internet	Nonpartisan	None
+45.0	51.0	4.0		upi-cvoter-26047	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	322		Internet	Nonpartisan	None
+38.0	42.0		20.0	ipsos-reuters-26116	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	720		Internet	Nonpartisan	None
+47.0	50.0	4.0		upi-cvoter-25920	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	497		Internet	Nonpartisan	None
+35.0	43.0		22.0	ipsos-reuters-25869	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	615		Internet	Nonpartisan	None
+46.0	50.0	4.0		upi-cvoter-25751	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	488		Internet	Nonpartisan	None
+36.0	43.0		21.0	ipsos-reuters-25710	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	578		Internet	Nonpartisan	None
+39.0	46.0	9.0	6.0	surveyusa-kstp-tv-25658	SurveyUSA/KSTP-TV	2016-09-16	2016-09-20		Likely Voters	625	4.0	IVR/Online	Nonpartisan	None
+43.0	49.0		7.0	surveyusa-kstp-tv-25658	SurveyUSA/KSTP-TV	2016-09-16	2016-09-20		Likely Voters	625	4.0	IVR/Online	Nonpartisan	None
+34.0	44.0		22.0	ipsos-reuters-25556	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	641		Internet	Nonpartisan	None
+38.0	44.0	8.0	10.0	mason-dixon-star-tribune-25521	Mason-Dixon/Star Tribune	2016-09-12	2016-09-14	If the 2016 general election for president and vice president were held today, which one of the following tickets would get your vote?	Registered Voters	625	4.0	Live Phone	Nonpartisan	None
+40.0	49.0		10.0	washpost-surveymonkey-25373	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2054		Internet	Nonpartisan	None
+34.0	41.0	20.0	6.0	washpost-surveymonkey-25373	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2054		Internet	Nonpartisan	None
+38.0	43.0		19.0	mason-dixon-star-tribune-23574	Mason-Dixon/Star Tribune	2016-01-18	2016-01-20		Registered Voters	800	3.5	Live Phone	Nonpartisan	None
+45.0	42.0		13.0	surveyusa-kstp-tv-23089	SurveyUSA/KSTP-TV	2015-10-29	2015-11-02		Registered Voters	516	4.4	IVR/Online	Nonpartisan	None
+39.0	44.0		17.0	ppp-d-22481	PPP (D)	2015-07-30	2015-08-02		Likely Voters	1015	3.1	IVR/Online	Pollster	Dem

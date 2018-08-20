@@ -1,0 +1,39 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+33.0	51.0	13.0	3.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1451		Internet	Nonpartisan	None
+36.0	51.0	6.0	7.0	insights-west-26816	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	402	4.9	Internet	Nonpartisan	None
+39.0	56.0	6.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	328		Internet	Nonpartisan	None
+34.0	51.0	12.0	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1292		Internet	Nonpartisan	None
+38.0	47.0		15.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	863		Internet	Nonpartisan	None
+34.0	52.0	12.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1205		Internet	Nonpartisan	None
+34.0	53.0	12.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	944		Internet	Nonpartisan	None
+39.0	46.0		15.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	870		Internet	Nonpartisan	None
+38.0	50.0	9.0	4.0	surveyusa-26738	SurveyUSA	2016-10-31	2016-11-02		Likely Voters	681	3.8	IVR/Online	Nonpartisan	None
+34.0	54.0	12.0	1.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	807		Internet	Nonpartisan	None
+34.0	54.0	10.0	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	698		Internet	Nonpartisan	None
+34.0	53.0	11.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	745		Internet	Nonpartisan	None
+34.0	53.0	12.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	699		Internet	Nonpartisan	None
+43.0	53.0	4.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	327		Internet	Nonpartisan	None
+34.0	52.0	12.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	793		Internet	Nonpartisan	None
+37.0	47.0		16.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	929		Internet	Nonpartisan	None
+34.0	51.0	12.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	782		Internet	Nonpartisan	None
+34.0	51.0	12.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	687		Internet	Nonpartisan	None
+34.0	50.0	14.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	546		Internet	Nonpartisan	None
+43.0	53.0	4.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	332		Internet	Nonpartisan	None
+42.0	46.0		12.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	724		Internet	Nonpartisan	None
+42.0	54.0	4.0		upi-cvoter-26335	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	320		Internet	Nonpartisan	None
+39.0	53.0		22.0	kcts-9-crosscut-washington-26512	KCTS 9/Crosscut/Washington	2016-10-06	2016-10-13		Likely Voters	750		Internet	Nonpartisan	None
+37.0	47.0		16.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	905		Internet	Nonpartisan	None
+42.0	53.0	5.0		upi-cvoter-26073	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	326		Internet	Nonpartisan	None
+33.0	51.0		16.0	ipsos-reuters-26135	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	504		Internet	Nonpartisan	None
+33.0	50.0	10.0	7.0	strategies-360-d-komo-news-25991	Strategies 360 (D- KOMO News)	2016-09-29	2016-10-03		Likely Voters	500	4.4	Live Phone	Sponsor	Dem
+31.0	47.0	17.0	6.0	strategies-360-d-komo-news-25991	Strategies 360 (D- KOMO News)	2016-09-29	2016-10-03		Likely Voters	500	4.4	Live Phone	Sponsor	Dem
+44.0	52.0	5.0		upi-cvoter-25944	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	496		Internet	Nonpartisan	None
+35.0	49.0		16.0	ipsos-reuters-25888	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	788		Internet	Nonpartisan	None
+43.0	52.0	5.0		upi-cvoter-25779	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	488		Internet	Nonpartisan	None
+35.0	49.0		16.0	ipsos-reuters-25690	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	705		Internet	Nonpartisan	None
+37.0	47.0		16.0	ipsos-reuters-25574	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	733		Internet	Nonpartisan	None
+28.0	38.0	20.0	14.0	insights-west-25627	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	505	4.4	Internet	Nonpartisan	None
+37.0	53.0		10.0	washpost-surveymonkey-25394	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	722		Internet	Nonpartisan	None
+31.0	41.0	23.0	5.0	washpost-surveymonkey-25394	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	722		Internet	Nonpartisan	None
+24.0	43.0	11.0	22.0	elway-25176	Elway	2016-08-09	2016-08-13		Registered Voters	500	4.5	Live Phone	Nonpartisan	None
+37.0	49.0		13.0	ppp-d-northwest-progressive-institute-24698	PPP (D-Northwest Progressive Institute)	2016-06-14	2016-06-15		Likely Voters	679	3.8	Automated Phone	Nonpartisan	None

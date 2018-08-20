@@ -1,0 +1,23 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+57.0	29.0	11.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	313		Internet	Nonpartisan	None
+55.0	39.0	7.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	307		Internet	Nonpartisan	None
+57.0	29.0	13.0	1.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	288		Internet	Nonpartisan	None
+57.0	29.0	13.0	1.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	287		Internet	Nonpartisan	None
+56.0	29.0	13.0	1.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	276		Internet	Nonpartisan	None
+55.0	31.0	12.0	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	260		Internet	Nonpartisan	None
+54.0	32.0	12.0	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	254		Internet	Nonpartisan	None
+53.0	31.0	13.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	279		Internet	Nonpartisan	None
+55.0	32.0	11.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	260		Internet	Nonpartisan	None
+57.0	37.0	7.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	306		Internet	Nonpartisan	None
+54.0	31.0	11.0	4.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	333		Internet	Nonpartisan	None
+52.0	31.0	13.0	4.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	372		Internet	Nonpartisan	None
+49.0	31.0	15.0	5.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	339		Internet	Nonpartisan	None
+50.0	30.0	15.0	5.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	294		Internet	Nonpartisan	None
+56.0	37.0	7.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	309		Internet	Nonpartisan	None
+56.0	37.0	8.0		upi-cvoter-26322	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	314		Internet	Nonpartisan	None
+55.0	37.0	8.0		upi-cvoter-26059	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	314		Internet	Nonpartisan	None
+57.0	36.0	8.0		upi-cvoter-25931	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	480		Internet	Nonpartisan	None
+57.0	36.0	8.0		upi-cvoter-25766	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	487		Internet	Nonpartisan	None
+43.0	32.0	9.0	16.0	dfm-research-d-25590	DFM Research (D)	2016-09-12	2016-09-17	Now let’s look ahead to the November election. If the election was held today for President of the United States, would you vote for Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian, or Jill Stein of the Green Party?	Likely Voters	400	4.9	Live Phone	Pollster	Dem
+60.0	32.0		8.0	washpost-surveymonkey-25384	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	549		Internet	Nonpartisan	None
+51.0	26.0	18.0	5.0	washpost-surveymonkey-25384	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	549		Internet	Nonpartisan	None

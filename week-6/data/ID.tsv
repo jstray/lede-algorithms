@@ -1,0 +1,32 @@
+Trump	Clinton	Johnson	McMullin	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+47.0	29.0	6.0	11.0	4.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	612		Internet	Nonpartisan	None
+60.0	33.0				7.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	322		Internet	Nonpartisan	None
+47.0	29.0	7.0	12.0	3.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	557		Internet	Nonpartisan	None
+53.0	30.0				17.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	325		Internet	Nonpartisan	None
+47.0	30.0	6.0	11.0	4.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	556		Internet	Nonpartisan	None
+49.0	30.0	6.0	10.0	3.0	1.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	498		Internet	Nonpartisan	None
+52.0	30.0				18.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	311		Internet	Nonpartisan	None
+49.0	30.0	5.0	12.0	3.0	1.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	442		Internet	Nonpartisan	None
+47.0	32.0	7.0	11.0	2.0	1.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	394		Internet	Nonpartisan	None
+49.0	31.0	10.0	7.0	2.0	1.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	447		Internet	Nonpartisan	None
+49.0	31.0	11.0		7.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	407		Internet	Nonpartisan	None
+61.0	34.0				6.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	318		Internet	Nonpartisan	None
+48.0	29.0	15.0	3.0	2.0	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	467		Internet	Nonpartisan	None
+49.0	29.0	15.0	1.0	3.0	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	500		Internet	Nonpartisan	None
+48.0	29.0	6.0	10.0	2.0	8.0	rasmussen-heat-street-26516	Rasmussen/Heat Street	2016-10-23	2016-10-24		Likely Voters	750	4.0	IVR/Online	Nonpartisan	None
+50.0	29.0	15.0		2.0	4.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	438		Internet	Nonpartisan	None
+50.0	29.0	15.0		2.0	4.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	351		Internet	Nonpartisan	None
+59.0	35.0				6.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	320		Internet	Nonpartisan	None
+51.0	35.0				14.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	287		Internet	Nonpartisan	None
+60.0	34.0			6.0		upi-cvoter-26299	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	316		Internet	Nonpartisan	None
+54.0	31.0				15.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	323		Internet	Nonpartisan	None
+60.0	34.0			7.0		upi-cvoter-26033	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	330		Internet	Nonpartisan	None
+55.0	31.0				14.0	ipsos-reuters-26105	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	320		Internet	Nonpartisan	None
+62.0	32.0			6.0		upi-cvoter-25909	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	487		Internet	Nonpartisan	None
+60.0	27.0				13.0	ipsos-reuters-25858	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	276		Internet	Nonpartisan	None
+61.0	33.0			6.0		upi-cvoter-25738	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	479		Internet	Nonpartisan	None
+55.0	32.0				13.0	ipsos-reuters-25689	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	273		Internet	Nonpartisan	None
+56.0	32.0				12.0	ipsos-reuters-25545	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	261		Internet	Nonpartisan	None
+53.0	34.0				13.0	washpost-surveymonkey-25363	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	716		Internet	Nonpartisan	None
+44.0	25.0	19.0		7.0	6.0	washpost-surveymonkey-25363	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	716		Internet	Nonpartisan	None
+44.0	23.0	5.0		17.0	7.0	dan-jones-associates-idahopoliticsweekly-com-24927	Dan Jones & Associates/IdahoPoliticsWeekly.com	2016-07-05	2016-07-16		Likely Voters	601	4.0	Live Phone	Nonpartisan	None

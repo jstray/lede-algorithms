@@ -1,0 +1,37 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+28.0	59.0	10.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1216		Internet	Nonpartisan	None
+38.0	56.0	6.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	329		Internet	Nonpartisan	None
+29.0	60.0	10.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1056		Internet	Nonpartisan	None
+34.0	56.0		10.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	720		Internet	Nonpartisan	None
+28.0	61.0	10.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1012		Internet	Nonpartisan	None
+27.0	62.0	10.0	1.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	851		Internet	Nonpartisan	None
+35.0	53.0		12.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	711		Internet	Nonpartisan	None
+26.0	63.0	10.0	1.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	772		Internet	Nonpartisan	None
+27.0	63.0	8.0	1.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	695		Internet	Nonpartisan	None
+27.0	63.0	8.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	740		Internet	Nonpartisan	None
+27.0	63.0	9.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	696		Internet	Nonpartisan	None
+38.0	58.0	4.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	330		Internet	Nonpartisan	None
+27.0	62.0	10.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	923		Internet	Nonpartisan	None
+34.0	54.0		12.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	728		Internet	Nonpartisan	None
+27.0	62.0	9.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	1046		Internet	Nonpartisan	None
+27.0	61.0	9.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	915		Internet	Nonpartisan	None
+27.0	61.0	9.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	783		Internet	Nonpartisan	None
+38.0	58.0	4.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	332		Internet	Nonpartisan	None
+29.0	53.0		18.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	533		Internet	Nonpartisan	None
+37.0	59.0	4.0		upi-cvoter-26307	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	325		Internet	Nonpartisan	None
+32.0	54.0		14.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	686		Internet	Nonpartisan	None
+37.0	58.0	5.0		upi-cvoter-26041	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	331		Internet	Nonpartisan	None
+32.0	53.0		15.0	ipsos-reuters-26113	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	705		Internet	Nonpartisan	None
+39.0	58.0	4.0		upi-cvoter-25917	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	527		Internet	Nonpartisan	None
+27.0	63.0	6.0	2.0	washington-post-university-of-maryland-25976	Washington Post/University of Maryland	2016-09-27	2016-09-30		Likely Voters	706	4.0	Live Phone	Nonpartisan	None
+33.0	52.0		15.0	ipsos-reuters-25866	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	669		Internet	Nonpartisan	None
+38.0	58.0	5.0		upi-cvoter-25748	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	531		Internet	Nonpartisan	None
+34.0	50.0		16.0	ipsos-reuters-25705	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	628		Internet	Nonpartisan	None
+25.0	58.0	8.0	9.0	goucher-college-sarah-t-hughes-field-politics-center-25625	Goucher College/Sarah T. Hughes Field Politics Center	2016-09-17	2016-09-20	Next, if the election for President of the United States was held today, would you vote for Republican Donald Trump, Democrat Hillary Clinton, Libertarian Gary Johnson, or Jill Stein of the Green Party?	Likely Voters	514	4.3	Live Phone	Nonpartisan	None
+29.0	53.0		18.0	ipsos-reuters-25553	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	525		Internet	Nonpartisan	None
+31.0	61.0		8.0	washpost-surveymonkey-25371	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1199		Internet	Nonpartisan	None
+27.0	54.0	15.0	5.0	washpost-surveymonkey-25371	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1199		Internet	Nonpartisan	None
+25.0	54.0	10.0	12.0	baltimore-sun-university-of-baltimore-opinionworks-25400	Baltimore Sun/University of Baltimore/OpinionWorks	2016-08-18	2016-08-30		Likely Voters	756	3.5	Live Phone	Nonpartisan	None
+28.0	61.0		11.0	ppp-d-24314	PPP (D)	2016-04-15	2016-04-17		Likely Voters	879	3.3	IVR/Online	Pollster	Dem
+27.0	63.0		10.0	nbc4-marist-24262	NBC4/Marist	2016-04-05	2016-04-09		Registered Voters	2563	1.9	Live Phone	Nonpartisan	None
+28.0	63.0	5.0	4.0	washington-post-university-of-maryland-24223	Washington Post/University of Maryland	2016-03-30	2016-04-03		Registered Voters			Live Phone	Nonpartisan	None

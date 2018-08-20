@@ -1,0 +1,41 @@
+Trump	Clinton	Johnson	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+30.0	56.0	6.0	4.0	4.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1378		Internet	Nonpartisan	None
+37.0	59.0		4.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	330		Internet	Nonpartisan	None
+29.0	56.0	7.0	4.0	4.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1211		Internet	Nonpartisan	None
+36.0	53.0			11.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	512		Internet	Nonpartisan	None
+29.0	55.0	7.0	4.0	5.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1188		Internet	Nonpartisan	None
+29.0	56.0	8.0	3.0	4.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1004		Internet	Nonpartisan	None
+37.0	53.0			10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	508		Internet	Nonpartisan	None
+29.0	57.0	8.0	3.0	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	878		Internet	Nonpartisan	None
+26.0	56.0	8.0	3.0	7.0	wneu-26699	WNEU	2016-10-23	2016-11-02	If the election for President were held today, and the candidates were Hillary Clinton, the Democrat, Donald Trump, the Republican, Gary Johnson, the Libertarian, and Jill Stein, the Green-Rainbow Party candidate, would you vote for Hillary Clinton, Donald Trump, Gary Johnson, Jill Stein, or some other candidate for President?	Likely Voters	417	5.0	Live Phone	Nonpartisan	None
+29.0	58.0	7.0	3.0	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	797		Internet	Nonpartisan	None
+29.0	58.0	7.0	4.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	796		Internet	Nonpartisan	None
+28.0	58.0	8.0	4.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	707		Internet	Nonpartisan	None
+39.0	58.0		3.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	325		Internet	Nonpartisan	None
+29.0	60.0	5.0	4.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	780		Internet	Nonpartisan	None
+27.0	56.0			17.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	627		Internet	Nonpartisan	None
+25.0	57.0	4.0	3.0	12.0	suffolk-boston-globe-26505	Suffolk/Boston Globe	2016-10-24	2016-10-26	On Tuesday, November 8th, the election for president will take place. The Massachusetts ballot lists four candidates for president in the following order: Democrat Hillary Clinton, Libertarian Gary Johnson, Green-Rainbow nominee Jill Stein, and Republican Donald Trump. At this point, who will you vote for or lean toward?	Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+29.0	60.0	6.0	3.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	787		Internet	Nonpartisan	None
+28.0	61.0	6.0	3.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	675		Internet	Nonpartisan	None
+29.0	61.0	6.0	3.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	533		Internet	Nonpartisan	None
+39.0	58.0		3.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	332		Internet	Nonpartisan	None
+25.0	57.0			18.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	648		Internet	Nonpartisan	None
+28.0	54.0	7.0	5.0	6.0	massinc-wbur-26223	MassINC/WBUR	2016-10-13	2016-10-16		Likely Voters	502	4.4	Live Phone	Nonpartisan	None
+31.0	57.0		3.0	9.0	massinc-wbur-26223	MassINC/WBUR	2016-10-13	2016-10-16		Likely Voters	502	4.4	Live Phone	Nonpartisan	None
+39.0	58.0		3.0		upi-cvoter-26308	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	329		Internet	Nonpartisan	None
+39.0	58.0		4.0		upi-cvoter-26042	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	328		Internet	Nonpartisan	None
+30.0	49.0			21.0	ipsos-reuters-26114	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	904		Internet	Nonpartisan	None
+26.0	58.0	7.0	4.0	5.0	wneu-25988	WNEU	2016-09-24	2016-10-03	If the election for President were held today, and the candidates were Hillary Clinton, the Democrat, Donald Trump, the Republican, Gary Johnson, the Libertarian, and Jill Stein, the Green-Rainbow Party candidate, would you vote for Hillary Clinton, Donald Trump, Gary Johnson, Jill Stein, or some other candidate for President?	Likely Voters	403	5.0	Live Phone	Nonpartisan	None
+30.0	65.0			5.0	wneu-25988	WNEU	2016-09-24	2016-10-03	If the election for President were held today, and the candidates were just Hillary Clinton, the Democrat, and Donald Trump, the Republican, would you vote for Hillary Clinton or Donald Trump?	Likely Voters	403	5.0	Live Phone	Nonpartisan	None
+41.0	56.0		3.0		upi-cvoter-25918	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	507		Internet	Nonpartisan	None
+28.0	50.0			22.0	ipsos-reuters-25867	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	780		Internet	Nonpartisan	None
+40.0	56.0		4.0		upi-cvoter-25749	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	501		Internet	Nonpartisan	None
+30.0	54.0			16.0	ipsos-reuters-25707	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	692		Internet	Nonpartisan	None
+34.0	47.0	9.0	6.0	5.0	umass-amherst-wbz-tv-yougov-25722	UMass Amherst/WBZ-TV/YouGov	2016-09-15	2016-09-20	If the presidential election were being held today, which candidate would you vote for?	Likely Voters	700	4.3	Internet	Nonpartisan	None
+31.0	53.0			16.0	ipsos-reuters-25554	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	691		Internet	Nonpartisan	None
+28.0	54.0	9.0	7.0	3.0	massinc-wbur-25478	MassINC/WBUR	2016-09-07	2016-09-10		Likely Voters	506	4.4	Live Phone	Nonpartisan	None
+31.0	60.0		5.0	5.0	massinc-wbur-25478	MassINC/WBUR	2016-09-07	2016-09-10		Likely Voters	506	4.4	Live Phone	Nonpartisan	None
+33.0	56.0			12.0	washpost-surveymonkey-25372	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1167		Internet	Nonpartisan	None
+29.0	48.0	11.0	5.0	6.0	washpost-surveymonkey-25372	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1167		Internet	Nonpartisan	None
+31.0	55.0			14.0	suffolk-boston-globe-24461	Suffolk/Boston Globe	2016-05-02	2016-05-05		Likely Voters	500	4.4	Live Phone	Nonpartisan	None
+26.0	62.0			12.0	wneu-24252	WNEU	2016-04-01	2016-04-10		Registered Voters	497	4.0	Live Phone	Nonpartisan	None

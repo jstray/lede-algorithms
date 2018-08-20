@@ -1,0 +1,55 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+32.0	57.0	9.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2208		Internet	Nonpartisan	None
+38.0	59.0	4.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	458		Internet	Nonpartisan	None
+31.0	58.0	9.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2132		Internet	Nonpartisan	None
+33.0	51.0		16.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	1383		Internet	Nonpartisan	None
+34.0	51.0	8.0	7.0	siena-26748	Siena	2016-11-03	2016-11-04	If the election for President was being held today and the candidates were Hillary Clinton on the Democratic line, Donald Trump on the Republican line, Gary Johnson on the Libertarian Party line, and Jill Stein on the Green Party line, who would you vote for?	Likely Voters	617	4.5	Live Phone	Nonpartisan	None
+32.0	58.0	9.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2131		Internet	Nonpartisan	None
+32.0	57.0	9.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1949		Internet	Nonpartisan	None
+34.0	56.0		10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	1443		Internet	Nonpartisan	None
+32.0	58.0	9.0	2.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	1755		Internet	Nonpartisan	None
+33.0	57.0	9.0	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	1645		Internet	Nonpartisan	None
+33.0	56.0	10.0	1.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	1734		Internet	Nonpartisan	None
+33.0	57.0	9.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	1561		Internet	Nonpartisan	None
+38.0	58.0	4.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	403		Internet	Nonpartisan	None
+32.0	57.0	8.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	1630		Internet	Nonpartisan	None
+30.0	52.0		18.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	989		Internet	Nonpartisan	None
+32.0	57.0	9.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	1480		Internet	Nonpartisan	None
+31.0	58.0	9.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1169		Internet	Nonpartisan	None
+30.0	58.0	9.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	882		Internet	Nonpartisan	None
+38.0	59.0	4.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	424		Internet	Nonpartisan	None
+30.0	54.0		16.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	886		Internet	Nonpartisan	None
+30.0	54.0	10.0	6.0	siena-26262	Siena	2016-10-13	2016-10-17	If the election for President was being held today and the candidates were Hillary Clinton on the Democratic line, Donald Trump on the Republican line, Gary Johnson on the Libertarian Party line, and Jill Stein on the Green Party line, who would you vote for?	Likely Voters	611	4.6	Live Phone	Nonpartisan	None
+38.0	59.0	4.0		upi-cvoter-26320	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	404		Internet	Nonpartisan	None
+27.0	53.0		20.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	986		Internet	Nonpartisan	None
+38.0	58.0	4.0		upi-cvoter-26057	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	418		Internet	Nonpartisan	None
+31.0	55.0		14.0	ipsos-reuters-26124	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	1437		Internet	Nonpartisan	None
+40.0	57.0	4.0		upi-cvoter-25929	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	701		Internet	Nonpartisan	None
+29.0	49.0		22.0	ipsos-reuters-25877	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	1259		Internet	Nonpartisan	None
+39.0	57.0	4.0		upi-cvoter-25764	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	724		Internet	Nonpartisan	None
+33.0	57.0	8.0	2.0	nbc-wsj-marist-25720	NBC/WSJ/Marist	2016-09-21	2016-09-23		Likely Voters	676	3.8	Live Phone	Nonpartisan	None
+31.0	52.0	14.0	3.0	nbc-wsj-marist-25720	NBC/WSJ/Marist	2016-09-21	2016-09-23		Likely Voters	676	3.8	Live Phone	Nonpartisan	None
+34.0	53.0		13.0	ipsos-reuters-25713	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	1113		Internet	Nonpartisan	None
+30.0	51.0	12.0	7.0	siena-25534	Siena	2016-09-11	2016-09-15	If the election for President was being held today and the candidates were Hillary Clinton on the Democratic line, Donald Trump on the Republican line, Gary Johnson on the Libertarian Party line, and Jill Stein on the Green Party line, who would you vote for?	Likely Voters	600	5.0	Live Phone	Nonpartisan	None
+30.0	53.0		17.0	ipsos-reuters-25562	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	1089		Internet	Nonpartisan	None
+35.0	57.0		9.0	washpost-surveymonkey-25382	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1405		Internet	Nonpartisan	None
+31.0	51.0	13.0	5.0	washpost-surveymonkey-25382	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1405		Internet	Nonpartisan	None
+27.0	57.0	3.0	13.0	siena-25159	Siena	2016-08-07	2016-08-10		Registered Voters	717	4.3	Live Phone	Nonpartisan	None
+25.0	50.0	16.0	9.0	siena-25159	Siena	2016-08-07	2016-08-10		Registered Voters	717	4.3	Live Phone	Nonpartisan	None
+36.0	53.0	10.0		gravis-marketing-25133	Gravis Marketing	2016-08-04	2016-08-08	If you had to vote today in a matchup between Hillary Clinton and Donald Trump, who would you vote for?	Registered Voters	1717	2.4	IVR/Online	Nonpartisan	None
+34.0	48.0	18.0		gravis-marketing-25133	Gravis Marketing	2016-08-04	2016-08-08	If you had to vote today in a matchup between Hillary Clinton, Donald Trump, Gary Johnson and Jill Stein, who would you vote for?	Registered Voters	1717	2.4	IVR/Online	Nonpartisan	None
+35.0	47.0	3.0	14.0	quinnipiac-24930	Quinnipiac	2016-07-13	2016-07-17	1. If the election for President were being held today, and the candidates were Hillary Clinton the Democrat and Donald Trump the Republican, for whom would you vote?	Registered Voters	1104	3.0	Live Phone	Nonpartisan	None
+33.0	45.0	11.0	12.0	quinnipiac-24930	Quinnipiac	2016-07-13	2016-07-17	If the election for President were being held today, and the candidates were Hillary Clinton the Democrat, Donald Trump the Republican, Gary Johnson the Libertarian, and Jill Stein the Green party candidate, for whom would you vote?	Registered Voters	1104	3.0	Live Phone	Nonpartisan	None
+31.0	54.0		16.0	siena-24809	Siena	2016-06-22	2016-06-28		Registered Voters	803	4.0	Live Phone	Nonpartisan	None
+31.0	52.0		17.0	siena-24585	Siena	2016-05-22	2016-05-26		Registered Voters	825	3.9	Live Phone	Nonpartisan	None
+30.0	56.0		15.0	siena-24430	Siena	2016-04-24	2016-04-27		Registered Voters	802	4.1	Live Phone	Nonpartisan	None
+36.0	55.0		9.0	emerson-college-polling-society-24294	Emerson College Polling Society	2016-04-15	2016-04-17		Likely Voters	1047	2.9	Automated Phone	Nonpartisan	None
+35.0	55.0		10.0	ppp-d-24259	PPP (D)	2016-04-07	2016-04-10		Likely Voters	1403	2.6	IVR/Online	Pollster	Dem
+32.0	61.0		7.0	nbc-wsj-marist-24249	NBC/WSJ/Marist	2016-04-06	2016-04-10		Registered Voters	1987	2.2	Live Phone	Nonpartisan	None
+35.0	51.0		14.0	baruch-college-new-york-1-24253	Baruch College/New York 1	2016-04-05	2016-04-10		Registered Voters	1306	2.9	Live Phone	Nonpartisan	None
+36.0	54.0		10.0	emerson-college-polling-society-24235	Emerson College Polling Society	2016-04-06	2016-04-07		Likely Voters	864	3.3	Automated Phone	Nonpartisan	None
+37.0	53.0	2.0	8.0	fox-news-24239	Fox News	2016-04-04	2016-04-07		Likely Voters	1403	2.5	Live Phone	Nonpartisan	None
+33.0	53.0	2.0	11.0	quinnipiac-24174	Quinnipiac	2016-03-22	2016-03-29		Registered Voters	1667	2.4	Live Phone	Nonpartisan	None
+36.0	55.0		10.0	emerson-college-polling-society-24106	Emerson College Polling Society	2016-03-14	2016-03-16		Likely Voters	768	3.5	Automated Phone	Nonpartisan	None
+34.0	57.0		10.0	siena-23997	Siena	2016-02-28	2016-03-03		Registered Voters	800	4.1	Live Phone	Nonpartisan	None
+32.0	57.0		11.0	siena-23712	Siena	2016-01-31	2016-02-03		Registered Voters	930	3.8	Live Phone	Nonpartisan	None

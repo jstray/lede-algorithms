@@ -1,0 +1,62 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+31.0	56.0	11.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	2712		Internet	Nonpartisan	None
+32.0	54.0	7.0	7.0	insights-west-26815	Insights West	2016-11-04	2016-11-06	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	401	4.9	Internet	Nonpartisan	None
+37.0	58.0	5.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	507		Internet	Nonpartisan	None
+30.0	56.0	11.0	3.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	2655		Internet	Nonpartisan	None
+32.0	59.0		9.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	1393		Internet	Nonpartisan	None
+30.0	56.0	11.0	3.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	2691		Internet	Nonpartisan	None
+29.0	56.0	12.0	3.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	2528		Internet	Nonpartisan	None
+30.0	60.0		10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	1524		Internet	Nonpartisan	None
+29.0	56.0	12.0	3.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	2316		Internet	Nonpartisan	None
+30.0	55.0	12.0	3.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	2284		Internet	Nonpartisan	None
+35.0	56.0	5.0	4.0	surveyusa-kabc-scng-26606	SurveyUSA/KABC/SCNG	2016-10-28	2016-10-31		Likely Voters	747	3.6	IVR/Online	Nonpartisan	None
+33.0	53.0	7.0	7.0	field-uc-berkeley-yougov-26655	Field/UC Berkeley/YouGov	2016-10-25	2016-10-31		Likely Voters	1498		Internet	Nonpartisan	None
+30.0	55.0	12.0	3.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	2505		Internet	Nonpartisan	None
+30.0	55.0	12.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	2264		Internet	Nonpartisan	None
+30.0	54.0	8.0	7.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	Thinking about the presidential election, if the election for president were held today and the candidates were -- Democrats Hillary Clinton and Tim Kaine, Republicans Donald Trump and Mike Pence, Green Party candidates Jill Stein and Ajamu Baraka, Libertarian Party candidates Gary Johnson and Bill Weld, and Peace and Freedom Party candidates Gloria Estela la Riva and Dennis Banks, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+33.0	58.0	4.0	6.0	usc-la-times-26726	USC/LA Times	2016-10-22	2016-10-30	And if the election for President were held today and you had to choose between Democrats Hillary Clinton and Tim Kaine, and Republicans Donald Trump and Mike Pence, for whom would you vote?	Likely Voters	1365	2.4	Live Phone	Nonpartisan	None
+38.0	58.0	4.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	481		Internet	Nonpartisan	None
+31.0	54.0	12.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	2431		Internet	Nonpartisan	None
+26.0	65.0		9.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	1779		Internet	Nonpartisan	None
+31.0	54.0	12.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	2358		Internet	Nonpartisan	None
+31.0	54.0	13.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1923		Internet	Nonpartisan	None
+31.0	53.0	13.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1492		Internet	Nonpartisan	None
+38.0	58.0	4.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	507		Internet	Nonpartisan	None
+28.0	54.0	12.0	5.0	ppic-26498	PPIC	2016-10-14	2016-10-23		Likely Voters	1012		Live Phone	Nonpartisan	None
+26.0	64.0		10.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	1013		Internet	Nonpartisan	None
+37.0	58.0	4.0		upi-cvoter-26292	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	483		Internet	Nonpartisan	None
+30.0	56.0	6.0	7.0	surveyusa-kabc-scng-26224	SurveyUSA/KABC/SCNG	2016-10-13	2016-10-15		Likely Voters	725	3.7	IVR/Online	Nonpartisan	None
+25.0	61.0	7.0	8.0	sacramento-state-26535	Sacramento State	2016-10-07	2016-10-13	If the presidential election were tomorrow, for whom would you vote?	Likely Voters	622	7.0	Internet	Nonpartisan	None
+22.0	66.0		12.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	1196		Internet	Nonpartisan	None
+37.0	58.0	5.0		upi-cvoter-26026	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	474		Internet	Nonpartisan	None
+28.0	61.0		11.0	ipsos-reuters-26100	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	1885		Internet	Nonpartisan	None
+39.0	57.0	4.0		upi-cvoter-25902	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	992		Internet	Nonpartisan	None
+24.0	64.0		12.0	ipsos-reuters-25853	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	1610		Internet	Nonpartisan	None
+33.0	59.0	5.0	3.0	surveyusa-kabc-scng-25809	SurveyUSA/KABC/SCNG	2016-09-27	2016-09-28		Likely Voters	732	3.6	IVR/Online	Nonpartisan	None
+38.0	57.0	5.0		upi-cvoter-25731	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	951		Internet	Nonpartisan	None
+28.0	60.0		12.0	ipsos-reuters-25681	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	1468		Internet	Nonpartisan	None
+31.0	47.0	17.0	6.0	ppic-25632	PPIC	2016-09-09	2016-09-18	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1045	4.5	Live Phone	Nonpartisan	None
+24.0	63.0		13.0	ipsos-reuters-25540	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	1189		Internet	Nonpartisan	None
+30.0	57.0	4.0	9.0	insights-west-25629	Insights West	2016-09-12	2016-09-14	As you may know, there will be a presidential election on Nov. 8. Which one of the following candidates would you be most likely to support on Election Day?	Likely Voters	515	4.3	Internet	Nonpartisan	None
+33.0	50.0	11.0	6.0	field-uc-berkeley-yougov-25577	Field/UC Berkeley/YouGov	2016-09-07	2016-09-13		Likely Voters	1426		Internet	Nonpartisan	None
+32.0	57.0	4.0	7.0	surveyusa-kabc-scng-25467	SurveyUSA/KABC/SCNG	2016-09-08	2016-09-11		Likely Voters	678		IVR/Online	Nonpartisan	None
+33.0	58.0		9.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+29.0	49.0	17.0	5.0	surveymonkey-la-times-25472	SurveyMonkey/LA Times	2016-09-01	2016-09-08		Registered Voters	4212	2.0	Internet	Nonpartisan	None
+33.0	57.0		9.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+28.0	49.0	19.0	5.0	washpost-surveymonkey-25359	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	2574		Internet	Nonpartisan	None
+30.0	46.0	15.0	9.0	ppic-24984	PPIC	2016-07-10	2016-07-19	If the November 8 presidential election were being held today, would you vote for:	Likely Voters	1056	4.3	Live Phone	Nonpartisan	None
+28.0	58.0		14.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+26.0	50.0	10.0	14.0	field-24831	Field	2016-06-08	2016-07-02		Likely Voters	956	3.2	Live Phone	Nonpartisan	None
+28.0	54.0	12.0	6.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10		Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+31.0	61.0		8.0	surveymonkey-usc-la-times-24674	SurveyMonkey/USC/LA Times	2016-06-09	2016-06-10	If the election were held today among just the following two candidates, for whom would you vote?	Likely Voters	1264	4.0	Live Phone	Nonpartisan	None
+33.0	48.0	12.0	7.0	cbs-yougov-24612	CBS/YouGov	2016-05-31	2016-06-03		Likely Voters	1187	3.9	Internet	Nonpartisan	None
+31.0	55.0	8.0	6.0	nbc-wsj-marist-24593	NBC/WSJ/Marist	2016-05-29	2016-05-31		Registered Voters	1833	2.3	Live Phone	Nonpartisan	None
+34.0	53.0		13.0	field-24594	Field	2016-05-26	2016-05-31		Likely Voters	1002	3.2	Live Phone	Nonpartisan	None
+33.0	54.0	4.0	10.0	usc-la-times-24603	USC/LA Times	2016-05-19	2016-05-31		Likely Voters	1150		Live Phone	Nonpartisan	None
+38.0	52.0		10.0	surveyusa-kabc-scng-24538	SurveyUSA/KABC/SCNG	2016-05-19	2016-05-22		Likely Voters	1383		IVR/Online	Nonpartisan	None
+39.0	49.0	7.0	4.0	ppic-24558	PPIC	2016-05-13	2016-05-22		Likely Voters	996	4.3	Live Phone	Nonpartisan	None
+33.0	45.0	12.0	10.0	yougov-hoover-institution-24574	YouGov/Hoover Institution	2016-05-04	2016-05-16		Likely Voters	1196		Internet	Nonpartisan	None
+34.0	56.0		10.0	surveyusa-kabc-scng-24427	SurveyUSA/KABC/SCNG	2016-04-27	2016-04-30		Likely Voters	1683	2.4	IVR/Online	Nonpartisan	None
+31.0	59.0		10.0	field-24222	Field	2016-03-24	2016-04-04		Registered Voters	1400	3.2	Live Phone	Nonpartisan	None
+26.0	60.0		14.0	surveyusa-24205	SurveyUSA	2016-03-30	2016-04-03		Likely Voters	1507	2.5	IVR/Online	Nonpartisan	None
+30.0	57.0	5.0	8.0	usc-la-times-24155	USC/LA Times	2016-03-16	2016-03-23		Likely Voters	1202		Live Phone	Nonpartisan	None

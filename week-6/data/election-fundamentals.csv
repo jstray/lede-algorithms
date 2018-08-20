@@ -1,0 +1,16 @@
+year,incumbent_president,incumbent_party,term,highest_approval,lowest_approval,year_gdp_growth,winner
+1960,Esienhower,R,2,79,47,2.6,D
+1964,Johnson,D,1,79,34,5.8,D
+1968,Johnson,D,2,79,34,4.8,R
+1972,Nixon,R,1,66,24,5.3,R
+1976,Nixon,R,2,66,24,5.4,D
+1980,Carter,D,1,74,28,-0.2,R
+1984,Reagan,R,1,71,35,7.26,R
+1988,Reagan,R,2,71,35,4.2,R
+1992,Bush,R,1,89,29,3.6,D
+1996,Clinton,D,1,73,37,3.8,D
+2000,Clinton,D,2,73,37,4.1,R
+2004,Bush,R,1,90,25,3.8,R
+2008,Bush,R,2,90,25,-0.3,D
+2012,Obama,D,1,69,38,2.2,D
+2016,Obama,D,2,69,38,1.5,R

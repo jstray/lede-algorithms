@@ -1,0 +1,41 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+49.0	36.0	13.0	2.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1311		Internet	Nonpartisan	None
+54.0	39.0	8.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	328		Internet	Nonpartisan	None
+48.0	36.0	14.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1139		Internet	Nonpartisan	None
+54.0	38.0		8.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	519		Internet	Nonpartisan	None
+48.0	36.0	14.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1193		Internet	Nonpartisan	None
+58.0	34.0	9.0		fort-hays-state-university-26729	Fort Hays State University	2016-11-01	2016-11-03	If the Presidential election were held today, who would you be most likely to vote for?	Likely Voters	313	5.5	Live Phone	Nonpartisan	None
+49.0	36.0	14.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	1162		Internet	Nonpartisan	None
+53.0	38.0		9.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	502		Internet	Nonpartisan	None
+48.0	37.0	13.0	2.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	1123		Internet	Nonpartisan	None
+48.0	37.0	13.0	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	1164		Internet	Nonpartisan	None
+47.0	36.0	15.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	1273		Internet	Nonpartisan	None
+49.0	38.0	8.0	6.0	surveyusa-ksn-news-26614	SurveyUSA/KSN News	2016-10-26	2016-10-30	If the election for President of the United States were today, and you were filling out your ballot right now, who would you vote for? Republican Donald Trump? Democrat Hillary Clinton? Libertarian Gary Johnson? or Green Party candidate Jill Stein?	Likely Voters	624	4.0	IVR/Online	Nonpartisan	None
+47.0	36.0	16.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	1176		Internet	Nonpartisan	None
+56.0	39.0	5.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	328		Internet	Nonpartisan	None
+47.0	36.0	14.0	3.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	1619		Internet	Nonpartisan	None
+52.0	38.0		10.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	474		Internet	Nonpartisan	None
+48.0	36.0	13.0	3.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	1842		Internet	Nonpartisan	None
+48.0	36.0	13.0	3.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	1688		Internet	Nonpartisan	None
+48.0	37.0	12.0	3.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	1468		Internet	Nonpartisan	None
+56.0	39.0	5.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	323		Internet	Nonpartisan	None
+50.0	38.0		12.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	517		Internet	Nonpartisan	None
+56.0	40.0	5.0		upi-cvoter-26303	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	332		Internet	Nonpartisan	None
+47.0	36.0	9.0	7.0	surveyusa-ksn-news-26275	SurveyUSA/KSN News	2016-10-11	2016-10-15	If the election for President of the United States were today, and you were filling out your ballot right now, who would you vote for? Republican Donald Trump? Democrat Hillary Clinton? Libertarian Gary Johnson? or Green Party candidate Jill Stein?	Likely Voters	581	4.1	IVR/Online	Nonpartisan	None
+50.0	38.0		12.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	565		Internet	Nonpartisan	None
+47.0	39.0	14.0		fort-hays-state-university-26709	Fort Hays State University	2016-09-01	2016-10-13	If the Presidential election were held today, who would you be most likely to vote for?	Likely Voters	892	3.2	Live Phone	Nonpartisan	None
+55.0	40.0	6.0		upi-cvoter-26037	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	332		Internet	Nonpartisan	None
+55.0	35.0		10.0	ipsos-reuters-26109	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	556		Internet	Nonpartisan	None
+58.0	38.0	4.0		upi-cvoter-25913	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	535		Internet	Nonpartisan	None
+54.0	34.0		12.0	ipsos-reuters-25862	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	498		Internet	Nonpartisan	None
+57.0	38.0	5.0		upi-cvoter-25743	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	518		Internet	Nonpartisan	None
+51.0	36.0		13.0	ipsos-reuters-25697	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	472		Internet	Nonpartisan	None
+49.0	39.0		12.0	ipsos-reuters-25549	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	459		Internet	Nonpartisan	None
+48.0	36.0	10.0	7.0	surveyusa-ksn-news-25480	SurveyUSA/KSN News	2016-09-06	2016-09-11	If the election for President of the United States were today, and you were filling out your ballot right now, who would you vote for? Republican Donald Trump? Democrat Hillary Clinton? Or Libertarian Gary Johnson?	Likely Voters	595	4.1	IVR/Online	Nonpartisan	None
+49.0	37.0		14.0	washpost-surveymonkey-25367	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	741		Internet	Nonpartisan	None
+43.0	30.0	21.0	6.0	washpost-surveymonkey-25367	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	741		Internet	Nonpartisan	None
+44.0	39.0	8.0	9.0	surveyusa-ksn-news-25109	SurveyUSA/KSN News	2016-08-03	2016-08-07	If the election for President of the United States were today, and you were filling out your ballot right now, who would you vote for? Republican Donald Trump? Democrat Hillary Clinton? Or Libertarian Gary Johnson?	Likely Voters	566	4.2	IVR/Live Phone	Nonpartisan	None
+44.0	27.0	13.0	16.0	fort-hays-state-university-kansas-newspapers-24976	Fort Hays State University/Kansas Newspapers	2016-07-11	2016-07-21	If the Presidential election were held today, who would you be most likely to vote for?	Likely Voters	542	4.3	Live Phone	Nonpartisan	None
+47.0	36.0	8.0	9.0	surveyusa-ksn-news-24917	SurveyUSA/KSN News	2016-07-08	2016-07-11	If the election for President of the United States were today, and you were filling out your ballot right now, who would you vote for?	Likely Voters	559	4.2	IVR/Live Phone	Nonpartisan	None
+36.0	43.0		21.0	zogby-kansas-health-foundation-24669	Zogby/Kansas Health Foundation	2016-06-04	2016-06-06		Registered Voters	433	4.7	IVR/Live Phone	Nonpartisan	None
+46.0	36.0		18.0	fort-hays-state-university-23980	Fort Hays State University	2016-02-19	2016-02-26		Adults	440	5.0	Live Phone	Nonpartisan	None

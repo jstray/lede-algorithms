@@ -1,0 +1,45 @@
+Trump	Clinton	Undecided	Other	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+37.0	52.0	3.0	8.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1377		Internet	Nonpartisan	None
+41.0	55.0		4.0	upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	348		Internet	Nonpartisan	None
+37.0	53.0	3.0	8.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1206		Internet	Nonpartisan	None
+38.0	48.0	14.0		ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	658		Internet	Nonpartisan	None
+37.0	53.0	3.0	8.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1119		Internet	Nonpartisan	None
+37.0	55.0	2.0	6.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	943		Internet	Nonpartisan	None
+36.0	50.0	14.0		ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	662		Internet	Nonpartisan	None
+40.0	51.0	6.0	5.0	stockton-26727	Stockton	2016-10-27	2016-11-02	If the election for president were held today, would you vote for:	Likely Voters	678	3.75	Live Phone	Nonpartisan	None
+38.0	54.0	2.0	6.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	823		Internet	Nonpartisan	None
+36.0	55.0	3.0	7.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	719		Internet	Nonpartisan	None
+35.0	55.0	3.0	7.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	724		Internet	Nonpartisan	None
+34.0	55.0	4.0	8.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	674		Internet	Nonpartisan	None
+40.0	57.0		3.0	upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	353		Internet	Nonpartisan	None
+34.0	54.0	3.0	9.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	734		Internet	Nonpartisan	None
+34.0	51.0	15.0		ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	774		Internet	Nonpartisan	None
+35.0	53.0	3.0	9.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	703		Internet	Nonpartisan	None
+36.0	52.0	3.0	9.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	590		Internet	Nonpartisan	None
+36.0	52.0	2.0	9.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	470		Internet	Nonpartisan	None
+40.0	57.0		3.0	upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	355		Internet	Nonpartisan	None
+32.0	53.0	15.0		ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	906		Internet	Nonpartisan	None
+40.0	51.0	5.0	4.0	fairleigh-dickinson-26230	Fairleigh Dickinson	2016-10-12	2016-10-16	If the election for president was held today, and the choices were Democrat Hillary Clinton and Republican Donald Trump, for whom would you vote?	Likely Voters	579	4.3	Live Phone	Nonpartisan	None
+35.0	49.0	5.0	12.0	fairleigh-dickinson-26230	Fairleigh Dickinson	2016-10-12	2016-10-16	Now let me ask you that question in a slightly different way. If the election for president was held today, and the choices were Democrat Hillary Clinton, Republican Donald Trump, and Gary Johnson or Jill Stein, the third party candidates, for whom would you vote?	Likely Voters	293	5.7	Live Phone	Nonpartisan	None
+39.0	57.0		4.0	upi-cvoter-26317	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	338		Internet	Nonpartisan	None
+32.0	50.0	18.0		ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	1084		Internet	Nonpartisan	None
+39.0	57.0		4.0	upi-cvoter-26055	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	339		Internet	Nonpartisan	None
+34.0	49.0	17.0		ipsos-reuters-26122	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	595		Internet	Nonpartisan	None
+41.0	55.0		4.0	upi-cvoter-25927	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	568		Internet	Nonpartisan	None
+40.0	46.0	5.0	9.0	stockton-25823	Stockton	2016-09-22	2016-09-29		Likely Voters	638	3.9	Live Phone	Nonpartisan	None
+34.0	47.0	19.0		ipsos-reuters-25875	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	606		Internet	Nonpartisan	None
+40.0	56.0		4.0	upi-cvoter-25761	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	560		Internet	Nonpartisan	None
+32.0	50.0	18.0		ipsos-reuters-25715	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	953		Internet	Nonpartisan	None
+33.0	49.0	18.0		ipsos-reuters-25561	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	982		Internet	Nonpartisan	None
+29.0	50.0	7.0	15.0	rutgers-eagleton-26163	Rutgers-Eagleton	2016-09-06	2016-09-10		Registered Voters	726		Live Phone	Nonpartisan	None
+35.0	59.0	1.0	6.0	rutgers-eagleton-26163	Rutgers-Eagleton	2016-09-06	2016-09-10		Registered Voters	718		Live Phone	Nonpartisan	None
+38.0	53.0	9.0		washpost-surveymonkey-25380	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	912		Internet	Nonpartisan	None
+34.0	49.0	5.0	11.0	washpost-surveymonkey-25380	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	912		Internet	Nonpartisan	None
+32.0	44.0	9.0	15.0	fairleigh-dickinson-24942	Fairleigh Dickinson	2016-06-22	2016-06-26	If the election for president was held today, which of the following would you vote for?	Registered Voters	349		Live Phone	Nonpartisan	None
+31.0	52.0	11.0	5.0	fairleigh-dickinson-24942	Fairleigh Dickinson	2016-06-22	2016-06-26	If the election for president was held today, which of the following would you vote for?	Registered Voters	363		Live Phone	Nonpartisan	None
+34.0	49.0	8.0	8.0	cbs-yougov-24613	CBS/YouGov	2016-05-31	2016-06-03		Likely Voters	1194	3.8	Internet	Nonpartisan	None
+34.0	38.0	17.0	11.0	monmouth-university-24572	Monmouth University	2016-05-23	2016-05-27		Registered Voters	703	3.7	Live Phone	Nonpartisan	None
+31.0	37.0	16.0	15.0	monmouth-university-24572	Monmouth University	2016-05-23	2016-05-27		Registered Voters	703	3.7	Live Phone	Nonpartisan	None
+37.0	48.0	8.0	7.0	fairleigh-dickinson-24548	Fairleigh Dickinson	2016-05-18	2016-05-22		Registered Voters	702	3.7	Live Phone	Nonpartisan	None
+38.0	45.0	13.0	3.0	quinnipiac-24515	Quinnipiac	2016-05-10	2016-05-16		Registered Voters	1989	2.2	Live Phone	Nonpartisan	None
+36.0	50.0	3.0	11.0	rutgers-eagleton-24304	Rutgers-Eagleton	2016-04-01	2016-04-08		Registered Voters	738	4.0	Live Phone	Nonpartisan	None

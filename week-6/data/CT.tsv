@@ -1,0 +1,34 @@
+Trump	Clinton	Other	Undecided	poll_slug	survey_house	start_date	end_date	question_text	sample_subpopulation	observations	margin_of_error	mode	partisanship	partisan_affiliation
+36.0	52.0	9.0	3.0	surveymonkey-26807	SurveyMonkey	2016-11-01	2016-11-07		Likely Voters	1387		Internet	Nonpartisan	None
+40.0	55.0	5.0		upi-cvoter-26793	UPI/CVOTER	2016-10-30	2016-11-06		Likely Voters	327		Internet	Nonpartisan	None
+37.0	51.0	10.0	2.0	surveymonkey-26769	SurveyMonkey	2016-10-30	2016-11-06		Likely Voters	1173		Internet	Nonpartisan	None
+40.0	50.0		10.0	ipsos-reuters-26806	Ipsos/Reuters	2016-10-17	2016-11-06		Likely Voters	515		Internet	Nonpartisan	None
+37.0	51.0	10.0	2.0	surveymonkey-26731	SurveyMonkey	2016-10-29	2016-11-04		Likely Voters	1114		Internet	Nonpartisan	None
+38.0	52.0	9.0	2.0	surveymonkey-26694	SurveyMonkey	2016-10-28	2016-11-03		Likely Voters	925		Internet	Nonpartisan	None
+41.0	49.0		10.0	ipsos-reuters-26743	Ipsos/Reuters	2016-10-14	2016-11-03		Likely Voters	516		Internet	Nonpartisan	None
+38.0	52.0	9.0	2.0	surveymonkey-26660	SurveyMonkey	2016-10-27	2016-11-02		Likely Voters	753		Internet	Nonpartisan	None
+38.0	51.0	9.0	2.0	surveymonkey-26619	SurveyMonkey	2016-10-26	2016-11-01		Likely Voters	616		Internet	Nonpartisan	None
+39.0	51.0	9.0	2.0	surveymonkey-26596	SurveyMonkey	2016-10-25	2016-10-31		Likely Voters	554		Internet	Nonpartisan	None
+39.0	51.0	7.0	2.0	surveymonkey-26572	SurveyMonkey	2016-10-24	2016-10-30		Likely Voters	488		Internet	Nonpartisan	None
+43.0	54.0	3.0		upi-cvoter-26592	UPI/CVOTER	2016-10-23	2016-10-29		Likely Voters	326		Internet	Nonpartisan	None
+38.0	51.0	9.0	2.0	surveymonkey-26537	SurveyMonkey	2016-10-20	2016-10-28		Likely Voters	568		Internet	Nonpartisan	None
+36.0	51.0		13.0	ipsos-reuters-26585	Ipsos/Reuters	2016-10-07	2016-10-27		Likely Voters	640		Internet	Nonpartisan	None
+36.0	51.0	11.0	2.0	surveymonkey-26499	SurveyMonkey	2016-10-18	2016-10-26		Likely Voters	614		Internet	Nonpartisan	None
+36.0	50.0	11.0	2.0	surveymonkey-26441	SurveyMonkey	2016-10-18	2016-10-24		Likely Voters	515		Internet	Nonpartisan	None
+36.0	51.0	12.0	2.0	surveymonkey-26431	SurveyMonkey	2016-10-17	2016-10-23		Likely Voters	428		Internet	Nonpartisan	None
+42.0	55.0	3.0		upi-cvoter-26409	UPI/CVOTER	2016-10-16	2016-10-23		Likely Voters	329		Internet	Nonpartisan	None
+35.0	53.0		12.0	ipsos-reuters-26407	Ipsos/Reuters	2016-09-30	2016-10-20		Likely Voters	647		Internet	Nonpartisan	None
+42.0	55.0	4.0		upi-cvoter-26294	UPI/CVOTER	2016-10-09	2016-10-16		Likely Voters	326		Internet	Nonpartisan	None
+36.0	53.0		11.0	ipsos-reuters-26344	Ipsos/Reuters	2016-09-23	2016-10-13		Likely Voters	741		Internet	Nonpartisan	None
+42.0	54.0	4.0		upi-cvoter-26028	UPI/CVOTER	2016-10-02	2016-10-09		Likely Voters	331		Internet	Nonpartisan	None
+35.0	53.0		12.0	ipsos-reuters-26102	Ipsos/Reuters	2016-09-16	2016-10-06		Likely Voters	506		Internet	Nonpartisan	None
+43.0	54.0	4.0		upi-cvoter-25904	UPI/CVOTER	2016-09-19	2016-10-02		Likely Voters	520		Internet	Nonpartisan	None
+34.0	52.0		14.0	ipsos-reuters-25855	Ipsos/Reuters	2016-09-09	2016-09-29		Likely Voters	666		Internet	Nonpartisan	None
+42.0	54.0	4.0		upi-cvoter-25733	UPI/CVOTER	2016-09-12	2016-09-25		Likely Voters	512		Internet	Nonpartisan	None
+37.0	47.0		16.0	ipsos-reuters-25684	Ipsos/Reuters	2016-09-02	2016-09-22		Likely Voters	662		Internet	Nonpartisan	None
+37.0	47.0		16.0	ipsos-reuters-25542	Ipsos/Reuters	2016-08-26	2016-09-15		Likely Voters	674		Internet	Nonpartisan	None
+39.0	51.0		10.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+33.0	44.0	17.0	6.0	washpost-surveymonkey-25360	WashPost/SurveyMonkey	2016-08-09	2016-09-01		Registered Voters	1053		Internet	Nonpartisan	None
+38.0	45.0	3.0	14.0	quinnipiac-24627	Quinnipiac	2016-06-01	2016-06-05		Registered Voters	1030	2.7	Live Phone	Nonpartisan	None
+40.0	48.0		12.0	emerson-college-polling-society-24256	Emerson College Polling Society	2016-04-10	2016-04-11		Likely Voters	1043	3.0	Automated Phone	Nonpartisan	None
+40.0	47.0	2.0	11.0	quinnipiac-22907	Quinnipiac	2015-10-07	2015-10-11		Registered Voters	1735	2.4	Live Phone	Nonpartisan	None
