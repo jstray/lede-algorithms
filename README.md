@@ -188,7 +188,7 @@ Then we separated each group again, by fruit vs. vegetable. This produced eight 
  - [Human decisions and machine predictions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5947971/) - Analyzes real judicial decision data and makes the case that using a prediction algorithm would simultaneously send fewer people to jail, reduce the crime rate, and improve racial disparities.
 
 *Homework:*
-- [Make a fair classifier](https://github.com/jstray/lede-algorithms/blob/master/week-5/week-5-1-fairness-tradeoffs-homework.ipynb) by modifying the COMPAS logistic regression built in class to use different thresholds for black vs. white, so as to equalize the false positive rate (FPR).
+- [Make a fair classifier](https://github.com/jstray/lede-algorithms/blob/master/week-5/week-5-1-fairness-tradeoffs-homework.ipynb), according to the equal false positive rate (FPR) definition, by modifying the COMPAS logistic regression built in class to use different thresholds for black vs. white. How do other metrics shift?
 
 *What worked and didn't.* Acting out confusion matrices was popular. However in our run of Kitchen Confusion Matrix we didn't get the expected higher FPR for fruits. Narratively, the outcome of "being eaten" didn't motivate students to think about the desirability of the outcome and the potential unjustness of differential error. They weren't emotionally invested in being picked by the classifier, whereas I had presumed that all food would surely want to be given a chance to be eaten.
 
