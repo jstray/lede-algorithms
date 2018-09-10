@@ -113,7 +113,7 @@ For this class we are going to reproduce the Boston Globe analysis for their ser
  - [Class notebook](https://github.com/jstray/lede-algorithms/blob/master/week-3/week-3-2-class.ipynb)
 
  *References:*
-  - [Counting Possible Worlds](https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/analysis/counting_possible_worlds.html) from my book) - The Curious Journalist's Guide to Data
+  - [Counting Possible Worlds](https://towcenter.gitbooks.io/curious-journalist-s-guide-to-data/content/analysis/counting_possible_worlds.html) - The Curious Journalist's Guide to Data
 
 *Homework:*
 - [Logistic regression](https://github.com/jstray/lede-algorithms/blob/master/week-3/week-3-2-homework.ipynb) to examine the effects of Titanic passenger sex and class on survival odds. As a bonus question, we'll use the ANES data from the last class to see how much effect  opinion of Obamacare had in the 2016 election, when controlling for party.
