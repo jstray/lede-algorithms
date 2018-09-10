@@ -281,7 +281,7 @@ Several other journalistic simulations have been of the "significance testing" t
 
 - The Wall Street Journal's multi-decade investigation into insider trading has used simulation several times: [2006](http://www.pulitzer.org/winners/wall-street-journal) (read "How the journal analyzed stock-option grants"), [2013](http://businessjournalism.org/2013/11/bronze-from-casual-conversation-to-massive-investigation-into-insider-trading/), and [2017](https://www.wsj.com/articles/hundreds-of-people-made-gifts-of-stock-with-great-timing-1513881239)
 
-- [Statistical Model Strongly Suggests the Stormy Daniels Payoff Came from the Trump Campaign](https://medium.com/@whstancil/statistical-model-strongly-suggests-the-stormy-daniels-payoff-came-from-the-trump-campaign-7c09c300cb18). This one has similar structure to The Tennis Racket but has been criticized on the grounds that if you take the previous 20 payments, as opposed to the previous 10, the probability of getting close to $130,000 is very much higher.
+- [Statistical Model Strongly Suggests the Stormy Daniels Payoff Came from the Trump Campaign](https://medium.com/@whstancil/statistical-model-strongly-suggests-the-stormy-daniels-payoff-came-from-the-trump-campaign-7c09c300cb18). This one has similar structure to The Tennis Racket, but has a robustness issue: as [this notebook](https://github.com/jstray/lede-algorithms/blob/master/week-6/stormy-daniels-payments-simulation.ipynb) shows, if you take the previous 20 payments, as opposed to the previous 10, the probability of getting close to $130,000 is very much higher.
 
 
 ### Week 7-2 - Discussion and wrap up
