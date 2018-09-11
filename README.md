@@ -226,26 +226,12 @@ In this class we'll build a basic Monte Carlo U.S. election predictor which uses
 - Buzzfeed's post-election [forecast grades](https://www.buzzfeednews.com/article/jsvine/2016-election-forecast-grades)
 - [After 2016, Can We Ever Trust the Polls Again?](https://newrepublic.com/article/139158/2016-can-ever-trust-polls-again) - The New Republic
 - [Putting the Polling Miss of the 2016 Election in Perspective](https://www.nytimes.com/interactive/2016/11/13/upshot/putting-the-polling-miss-of-2016-in-perspective.html) - The Upshot
-
-*Homework:*
-- [Fundamentals-based election prediction](https://github.com/jstray/lede-algorithms/blob/master/week-6/week-6-1-election-prediction-homework.ipynb). How well can we predict election outcome from economic, approval, and term indicators? Use logistic regression to find out.
-
-*What worked and didn't.* Students needed a primer on basic polling and sampling theory, which we ended up doing in the next class.
-
-
-### Week 6-1 - Election Prediction
-In this class we'll build a basic Monte Carlo U.S. election predictor which uses per-state polling errors and simulates the electoral college. And we'll begin our discussion of how to interpret the predictions of 2016 in the face of Trump's win.
-
-*Materials:*
-- [Class notebook](https://github.com/jstray/lede-algorithms/blob/master/week-6/week-6-1-election-prediction.ipynb) goes from simulating one poll to simulating the electoral college to simulating correlated error.
-
-*References:*
 - [Models Based on ‘Fundamentals’ Have Failed at Predicting Presidential Elections](https://fivethirtyeight.com/features/models-based-on-fundamentals-have-failed-at-predicting-presidential-elections/) - Fivethirtyeight
 
 *Homework:*
 - [Fundamentals-based election prediction](https://github.com/jstray/lede-algorithms/blob/master/week-6/week-6-1-election-prediction-homework.ipynb). How well can we predict election outcome from economic, approval, and term indicators? Use logistic regression to find out.
 
-*What worked and didn't.* Students needed a primer on basic polling and sampling theory, which we did in the next class.
+*What worked and didn't.* Students needed a primer on basic polling and sampling theory, which we ended up doing in the next class.
 
 
 ### Week 6-2 - Correlated errors.
