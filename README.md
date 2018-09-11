@@ -6,7 +6,7 @@ by Jonathan Stray. Some parts adapted from previous work, as noted.
 ## Course overview
 This is a course on algorithmic data analysis in journalism, and also the journalistic analysis of algorithms used in society. The major topics are text processing, visualization of high dimensional data, regression, machine learning, algorithmic bias and accountability, monte carlo simulation, and election prediction. 
 
-There are seven weeks of material and 15 classes total. Most classes include a Jupyter notebook that students filled out during class time, following the instructor on screen. The full class notebook is named `class-week-day-topic.ipynb` while this same notebook ready to be filled out in class is called `class-week-day-topic-empty.ipynb` Though I believe it's important for learning for the students to type the code themselves, I sometimes included particularly annoying or unedifying snippets in the "empty" notebooks.
+There are seven weeks of material and 13 classes total. Most classes include a Jupyter notebook that students filled out during class time, following the instructor on screen. The full class notebook is named `class-week-day-topic.ipynb` while this same notebook ready to be filled out in class is called `class-week-day-topic-empty.ipynb` Though I believe it's important for learning for the students to type the code themselves, I sometimes included particularly annoying or unedifying snippets in the "empty" notebooks.
 
 There is a homework assignment after most classes, given as a notebook which students must fill out themselves. Homework solutions are available separately for instructors -- contact me (try @jonathanstray on Twitter)
 
