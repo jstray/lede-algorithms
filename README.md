@@ -29,6 +29,9 @@ Students must have basic ability to work with data in Python/Pandas, such as fil
 
 For each week, I have included notes about what worked and what didn't, in the hope of improving future iterations of the course. You'll see that it took me a few weeks to dial in the level and style of teaching, so the course is strongest (for this audience) starting in week 3.
 
+## LICENSE
+This work is licensed under Creative Commons [CC-BY 3](https://creativecommons.org/licenses/by/3.0/us/). Which means you can pretty much do what you want with it, just as long as you mention my name in derivative works.
+
 ## Syllabus 
 
 ### Week 1 - Introduction to Algorithms
